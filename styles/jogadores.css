@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Matemasie&family=Righteous&display=swap");
+
+body {
+  font-family: f;
+  background-color: #000000; /* Fundo escuro */
+  margin: 0;
+  padding: 0;
+  color: #ffffff; /* Texto claro */
+  background-image: url(https://cdn.gazetasp.com.br/upload/dn_arquivo/2024/06/conferencia-leste-regulamento-nba.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: contain;
+  background-position: left;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* Container principal */
+#playerInfo {
+  width: 800px;
+  height: fit-content;
+  padding: 20px;
+  background-color: rgba(83, 83, 83, 0.9); /* Fundo do card com transparência */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* Títulos */
+h2 {
+  font-size: 24px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+/* Imagem do jogador */
+#playerInfo img {
+  display: block;
+  margin: 0 auto 20px auto;
+  width: 100%; /* Ajusta a imagem para ocupar toda a largura do container */
+  max-width: 250px; /* Largura máxima da imagem */
+}
+
+/* Parágrafos */
+p {
+  font-size: 16px;
+  line-height: 1.6;
+  margin: 12px 0; /* Aumentado para melhor legibilidade */
+}
+
+/* Links */
+a {
+  color: #00a2ffcb; /* Azul NBA */
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s; /* Transição suave */
+}
+
+/* Navbar */
+.navbar {
+  background-color: #333;
+  height: 7.75vh;
+  width: 100%;
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  z-index: 800;
+  font-size: 1em;
+}
+
+.navbar a,
+.navbar a:visited {
+  color: #bbb;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 1em;
+}
+
+a:hover {
+  color: #0080b3; /* Tom mais escuro de azul para hover */
+  text-decoration: underline;
+}
+
+/* Mensagens de erro */
+.error-message {
+  color: #d9534f; /* Vermelho */
+  font-weight: bold;
+}
+
+/* Estilo do logo da equipe */
+.team-logo {
+  height: 10vh;
+  width: auto; /* Mantém a proporção da imagem */
+  position: relative; /* Para o degradê */
+}
+
+/* Estilo do container da imagem */
+.img-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Estilo de responsividade */
+@media (max-width: 670px) {
+  /* Container principal */
+  #playerInfo {
+    width: fit-content;
+    padding: 70px;
+  }
+  .navbar {
+    background-color: #333;
+    height: 7.75vh;
+    width: 100%;
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    z-index: 800;
+    font-size: 1em;
+  }
+}

@@ -1,0 +1,5362 @@
+{
+  "BOS": [
+    {
+      "PlayerID": 20000474,
+      "FirstName": "Jrue",
+      "LastName": "Holiday",
+      "Jersey": 4,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20000603,
+      "FirstName": "Al",
+      "LastName": "Horford",
+      "Jersey": 42,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20001406,
+      "FirstName": "Kristaps",
+      "LastName": "Porzingis",
+      "Jersey": 8,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20001672,
+      "FirstName": "Jaylen",
+      "LastName": "Brown",
+      "Jersey": 7,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20001829,
+      "FirstName": "Jayson",
+      "LastName": "Tatum",
+      "Jersey": 0,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20001856,
+      "FirstName": "Derrick",
+      "LastName": "White",
+      "Jersey": 9,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20001889,
+      "FirstName": "Luke",
+      "LastName": "Kornet",
+      "Jersey": 40,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002551,
+      "FirstName": "Payton",
+      "LastName": "Pritchard",
+      "Jersey": 11,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002560,
+      "FirstName": "Xavier",
+      "LastName": "Tillman Sr.",
+      "Jersey": 26,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002653,
+      "FirstName": "Jaden",
+      "LastName": "Springer",
+      "Jersey": 44,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002678,
+      "FirstName": "Neemias",
+      "LastName": "Queta",
+      "Jersey": 88,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002686,
+      "FirstName": "Sam",
+      "LastName": "Hauser",
+      "Jersey": 30,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002902,
+      "FirstName": "JD",
+      "LastName": "Davison",
+      "Jersey": 20,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20003076,
+      "FirstName": "Jordan",
+      "LastName": "Walsh",
+      "Jersey": 27,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003109,
+      "FirstName": "Drew",
+      "LastName": "Peterson",
+      "Jersey": 13,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20003208,
+      "FirstName": "Baylor",
+      "LastName": "Scheierman",
+      "Jersey": 55,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003255,
+      "FirstName": "Anton",
+      "LastName": "Watson",
+      "Jersey": 28,
+      "Position": "PF"
+    }
+  ],
+  "BKN": [
+    {
+      "PlayerID": 20000591,
+      "FirstName": "Bojan",
+      "LastName": "Bogdanovic",
+      "Jersey": 44,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20000606,
+      "FirstName": "Dennis",
+      "LastName": "Schr\u00f6der",
+      "Jersey": 17,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20001661,
+      "FirstName": "Ben",
+      "LastName": "Simmons",
+      "Jersey": 10,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20001757,
+      "FirstName": "Dorian",
+      "LastName": "Finney-Smith",
+      "Jersey": 28,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002033,
+      "FirstName": "Shake",
+      "LastName": "Milton",
+      "Jersey": 7,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002289,
+      "FirstName": "Cameron",
+      "LastName": "Johnson",
+      "Jersey": 2,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002292,
+      "FirstName": "Nicolas",
+      "LastName": "Claxton",
+      "Jersey": 33,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002656,
+      "FirstName": "Ziaire",
+      "LastName": "Williams",
+      "Jersey": 1,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002658,
+      "FirstName": "Cam",
+      "LastName": "Thomas",
+      "Jersey": 24,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002663,
+      "FirstName": "Keon",
+      "LastName": "Johnson",
+      "Jersey": 45,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002697,
+      "FirstName": "Day'Ron",
+      "LastName": "Sharpe",
+      "Jersey": 20,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002723,
+      "FirstName": "Trendon",
+      "LastName": "Watford",
+      "Jersey": 9,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002930,
+      "FirstName": "Tyrese",
+      "LastName": "Martin",
+      "Jersey": 13,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003046,
+      "FirstName": "Noah",
+      "LastName": "Clowney",
+      "Jersey": 21,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20003056,
+      "FirstName": "Dariq",
+      "LastName": "Whitehead",
+      "Jersey": 0,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003084,
+      "FirstName": "Jalen",
+      "LastName": "Wilson",
+      "Jersey": 22,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003105,
+      "FirstName": "Jaylen",
+      "LastName": "Martin",
+      "Jersey": 16,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003288,
+      "FirstName": "Yongxi",
+      "LastName": "Cui",
+      "Jersey": 8,
+      "Position": "PG"
+    }
+  ],
+  "NY": [
+    {
+      "PlayerID": 20001431,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 6,
+      "Team": "NY",
+      "Jersey": 32,
+      "PositionCategory": "F",
+      "Position": "PF",
+      "FirstName": "Karl-Anthony",
+      "LastName": "Towns",
+      "BirthDate": "1995-11-15T00:00:00",
+      "BirthCity": "Piscataway",
+      "BirthState": "NJ",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000006,
+      "Height": 84,
+      "Weight": 248
+    },
+    {
+      "PlayerID": 20001437,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 6,
+      "Team": "NY",
+      "Jersey": 22,
+      "PositionCategory": "G",
+      "Position": "PG",
+      "FirstName": "Cameron",
+      "LastName": "Payne",
+      "BirthDate": "1994-08-08T00:00:00",
+      "BirthCity": "Bartlett",
+      "BirthState": "TN",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000006,
+      "Height": 75,
+      "Weight": 183
+    },
+    {
+      "PlayerID": 20001838,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 6,
+      "Team": "NY",
+      "Jersey": 8,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "OG",
+      "LastName": "Anunoby",
+      "BirthDate": "1997-07-17T00:00:00",
+      "BirthCity": "London",
+      "BirthState": null,
+      "BirthCountry": "United Kingdom",
+      "GlobalTeamID": 20000006,
+      "Height": 79,
+      "Weight": 240
+    },
+    {
+      "PlayerID": 20001853,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 6,
+      "Team": "NY",
+      "Jersey": 3,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "Josh",
+      "LastName": "Hart",
+      "BirthDate": "1995-03-06T00:00:00",
+      "BirthCity": "Silver Spring",
+      "BirthState": "MD",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000006,
+      "Height": 76,
+      "Weight": 215
+    },
+    {
+      "PlayerID": 20001998,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 6,
+      "Team": "NY",
+      "Jersey": 25,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "Mikal",
+      "LastName": "Bridges",
+      "BirthDate": "1996-08-30T00:00:00",
+      "BirthCity": "Philadelphia",
+      "BirthState": "PA",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000006,
+      "Height": 78,
+      "Weight": 209
+    },
+    {
+      "PlayerID": 20002016,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 6,
+      "Team": "NY",
+      "Jersey": 23,
+      "PositionCategory": "C",
+      "Position": "C",
+      "FirstName": "Mitchell",
+      "LastName": "Robinson",
+      "BirthDate": "1998-04-01T00:00:00",
+      "BirthCity": "Pensacola",
+      "BirthState": "FL",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000006,
+      "Height": 84,
+      "Weight": 240
+    },
+    {
+      "PlayerID": 20002032,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 6,
+      "Team": "NY",
+      "Jersey": 11,
+      "PositionCategory": "G",
+      "Position": "PG",
+      "FirstName": "Jalen",
+      "LastName": "Brunson",
+      "BirthDate": "1996-08-31T00:00:00",
+      "BirthCity": "New Brunswick",
+      "BirthState": "NJ",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000006,
+      "Height": 74,
+      "Weight": 190
+    },
+    {
+      "PlayerID": 20002545,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 6,
+      "Team": "NY",
+      "Jersey": 5,
+      "PositionCategory": "F",
+      "Position": "PF",
+      "FirstName": "Precious",
+      "LastName": "Achiuwa",
+      "BirthDate": "1999-09-19T00:00:00",
+      "BirthCity": "Port Harcourt",
+      "BirthState": null,
+      "BirthCountry": "Nigeria",
+      "GlobalTeamID": 20000006,
+      "Height": 80,
+      "Weight": 243
+    },
+    {
+      "PlayerID": 20002691,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 6,
+      "Team": "NY",
+      "Jersey": 20,
+      "PositionCategory": "C",
+      "Position": "C",
+      "FirstName": "Jericho",
+      "LastName": "Sims",
+      "BirthDate": "1998-10-20T00:00:00",
+      "BirthCity": "Minneapolis",
+      "BirthState": "MN",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000006,
+      "Height": 82,
+      "Weight": 250
+    },
+    {
+      "PlayerID": 20002692,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 6,
+      "Team": "NY",
+      "Jersey": 2,
+      "PositionCategory": "G",
+      "Position": "PG",
+      "FirstName": "Miles",
+      "LastName": "McBride",
+      "BirthDate": "2000-09-08T00:00:00",
+      "BirthCity": "Cincinnati",
+      "BirthState": "OH",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000006,
+      "Height": 73,
+      "Weight": 195
+    },
+    {
+      "PlayerID": 20003107,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 6,
+      "Team": "NY",
+      "Jersey": 0,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "Jacob",
+      "LastName": "Toppin",
+      "BirthDate": "2000-05-08T00:00:00",
+      "BirthCity": "Brooklyn",
+      "BirthState": "NY",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000006,
+      "Height": 80,
+      "Weight": 200
+    },
+    {
+      "PlayerID": 20003210,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 6,
+      "Team": "NY",
+      "Jersey": 13,
+      "PositionCategory": "G",
+      "Position": "PG",
+      "FirstName": "Tyler",
+      "LastName": "Kolek",
+      "BirthDate": "2001-03-27T00:00:00",
+      "BirthCity": "Cumberland",
+      "BirthState": "RI",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000006,
+      "Height": 75,
+      "Weight": 195
+    },
+    {
+      "PlayerID": 20003211,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 6,
+      "Team": "NY",
+      "Jersey": 9,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "Kevin",
+      "LastName": "McCullar Jr.",
+      "BirthDate": "2001-03-15T00:00:00",
+      "BirthCity": "San Antonio",
+      "BirthState": "TX",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000006,
+      "Height": 78,
+      "Weight": 210
+    },
+    {
+      "PlayerID": 20003235,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 6,
+      "Team": "NY",
+      "Jersey": 35,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "Pacome",
+      "LastName": "Dadiet",
+      "BirthDate": "2005-07-27T00:00:00",
+      "BirthCity": "Rolling Meadows",
+      "BirthState": "IL",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000006,
+      "Height": 80,
+      "Weight": 210
+    },
+    {
+      "PlayerID": 20003257,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 6,
+      "Team": "NY",
+      "Jersey": 55,
+      "PositionCategory": "C",
+      "Position": "C",
+      "FirstName": "Ariel",
+      "LastName": "Hukporti",
+      "BirthDate": "2002-04-12T00:00:00",
+      "BirthCity": "Stralsund",
+      "BirthState": null,
+      "BirthCountry": "Germany",
+      "GlobalTeamID": 20000006,
+      "Height": 83,
+      "Weight": 246
+    }
+  ],
+  "PHI": [
+    {
+      "PlayerID": 20000457,
+      "FirstName": "Kyle",
+      "LastName": "Lowry",
+      "Jersey": 7,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20000471,
+      "FirstName": "Eric",
+      "LastName": "Gordon",
+      "Jersey": 23,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20000726,
+      "FirstName": "Joel",
+      "LastName": "Embiid",
+      "Jersey": 21,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20000742,
+      "FirstName": "Paul",
+      "LastName": "George",
+      "Jersey": 8,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20000810,
+      "FirstName": "Andre",
+      "LastName": "Drummond",
+      "Jersey": 5,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20000881,
+      "FirstName": "Reggie",
+      "LastName": "Jackson",
+      "Jersey": 0,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20001393,
+      "FirstName": "Kelly",
+      "LastName": "Oubre Jr.",
+      "Jersey": 9,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20001717,
+      "FirstName": "Guerschon",
+      "LastName": "Yabusele",
+      "Jersey": 28,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002491,
+      "FirstName": "Caleb",
+      "LastName": "Martin",
+      "Jersey": 16,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002546,
+      "FirstName": "Tyrese",
+      "LastName": "Maxey",
+      "Jersey": 0,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002577,
+      "FirstName": "Kenyon",
+      "LastName": "Martin Jr.",
+      "Jersey": 1,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002786,
+      "FirstName": "Jeff",
+      "LastName": "Dowtin Jr.",
+      "Jersey": 11,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002935,
+      "FirstName": "Lester",
+      "LastName": "Quinones",
+      "Jersey": 25,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20003096,
+      "FirstName": "Ricky",
+      "LastName": "Council IV",
+      "Jersey": 14,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003198,
+      "FirstName": "Jared",
+      "LastName": "McCain",
+      "Jersey": 20,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20003209,
+      "FirstName": "Justin",
+      "LastName": "Edwards",
+      "Jersey": 19,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003242,
+      "FirstName": "Adem",
+      "LastName": "Bona",
+      "Jersey": 30,
+      "Position": "C"
+    }
+  ],
+  "TOR": [
+    {
+      "PlayerID": 20000452,
+      "FirstName": "Garrett",
+      "LastName": "Temple",
+      "Jersey": 17,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20000564,
+      "FirstName": "Kelly",
+      "LastName": "Olynyk",
+      "Jersey": 41,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20001687,
+      "FirstName": "Jakob",
+      "LastName": "Poeltl",
+      "Jersey": 19,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20001886,
+      "FirstName": "Chris",
+      "LastName": "Boucher",
+      "Jersey": 25,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002040,
+      "FirstName": "Bruce",
+      "LastName": "Brown",
+      "Jersey": 11,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002272,
+      "FirstName": "RJ",
+      "LastName": "Barrett",
+      "Jersey": 9,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002306,
+      "FirstName": "Bruno",
+      "LastName": "Fernando",
+      "Jersey": 24,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002550,
+      "FirstName": "Immanuel",
+      "LastName": "Quickley",
+      "Jersey": 5,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002662,
+      "FirstName": "Scottie",
+      "LastName": "Barnes",
+      "Jersey": 4,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002664,
+      "FirstName": "Davion",
+      "LastName": "Mitchell",
+      "Jersey": 45,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002739,
+      "FirstName": "D.J.",
+      "LastName": "Carton",
+      "Jersey": 3,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002861,
+      "FirstName": "Ochai",
+      "LastName": "Agbaji",
+      "Jersey": 30,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003039,
+      "FirstName": "Gradey",
+      "LastName": "Dick",
+      "Jersey": 1,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003197,
+      "FirstName": "Ja'Kobe",
+      "LastName": "Walter",
+      "Jersey": 14,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003237,
+      "FirstName": "Jonathan",
+      "LastName": "Mogbo",
+      "Jersey": 2,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20003246,
+      "FirstName": "Jamal",
+      "LastName": "Shead",
+      "Jersey": 23,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20003256,
+      "FirstName": "Ulrich",
+      "LastName": "Chomche",
+      "Jersey": 22,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20003285,
+      "FirstName": "Jamison",
+      "LastName": "Battle",
+      "Jersey": 77,
+      "Position": "PF"
+    }
+  ],
+  "CHI": [
+    {
+      "PlayerID": 20000678,
+      "FirstName": "Nikola",
+      "LastName": "Vucevic",
+      "Jersey": 9,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20000804,
+      "FirstName": "Zach",
+      "LastName": "LaVine",
+      "Jersey": 8,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20001823,
+      "FirstName": "Lonzo",
+      "LastName": "Ball",
+      "Jersey": 2,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20001912,
+      "FirstName": "Torrey",
+      "LastName": "Craig",
+      "Jersey": 13,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002028,
+      "FirstName": "Jevon",
+      "LastName": "Carter",
+      "Jersey": 5,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002280,
+      "FirstName": "Coby",
+      "LastName": "White",
+      "Jersey": 0,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002303,
+      "FirstName": "Talen",
+      "LastName": "Horton-Tucker",
+      "Jersey": 22,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002529,
+      "FirstName": "Patrick",
+      "LastName": "Williams",
+      "Jersey": 44,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002535,
+      "FirstName": "Jalen",
+      "LastName": "Smith",
+      "Jersey": 7,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002652,
+      "FirstName": "Chris",
+      "LastName": "Duarte",
+      "Jersey": 27,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002665,
+      "FirstName": "Josh",
+      "LastName": "Giddey",
+      "Jersey": 3,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002674,
+      "FirstName": "Ayo",
+      "LastName": "Dosunmu",
+      "Jersey": 11,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002729,
+      "FirstName": "DJ",
+      "LastName": "Steward",
+      "Jersey": 0,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002887,
+      "FirstName": "EJ",
+      "LastName": "Liddell",
+      "Jersey": 32,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002897,
+      "FirstName": "Dalen",
+      "LastName": "Terry",
+      "Jersey": 25,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003074,
+      "FirstName": "Julian",
+      "LastName": "Phillips",
+      "Jersey": 15,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003103,
+      "FirstName": "Adama",
+      "LastName": "Sanogo",
+      "Jersey": 21,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20003217,
+      "FirstName": "Matas",
+      "LastName": "Buzelis",
+      "Jersey": 14,
+      "Position": "SF"
+    }
+  ],
+  "CLE": [
+    {
+      "PlayerID": 20000577,
+      "FirstName": "Tristan",
+      "LastName": "Thompson",
+      "Jersey": 13,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20001707,
+      "FirstName": "Caris",
+      "LastName": "LeVert",
+      "Jersey": 3,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20001708,
+      "FirstName": "Georges",
+      "LastName": "Niang",
+      "Jersey": 20,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20001837,
+      "FirstName": "Jarrett",
+      "LastName": "Allen",
+      "Jersey": 31,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20001844,
+      "FirstName": "Donovan",
+      "LastName": "Mitchell",
+      "Jersey": 45,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002270,
+      "FirstName": "Darius",
+      "LastName": "Garland",
+      "Jersey": 10,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002307,
+      "FirstName": "Ty",
+      "LastName": "Jerome",
+      "Jersey": 2,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002333,
+      "FirstName": "Dean",
+      "LastName": "Wade",
+      "Jersey": 32,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002343,
+      "FirstName": "Max",
+      "LastName": "Strus",
+      "Jersey": 1,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002530,
+      "FirstName": "Isaac",
+      "LastName": "Okoro",
+      "Jersey": 35,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002585,
+      "FirstName": "Sam",
+      "LastName": "Merrill",
+      "Jersey": 5,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002669,
+      "FirstName": "Evan",
+      "LastName": "Mobley",
+      "Jersey": 4,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002694,
+      "FirstName": "JT",
+      "LastName": "Thor",
+      "Jersey": 15,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002934,
+      "FirstName": "Luke",
+      "LastName": "Travers",
+      "Jersey": 33,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003066,
+      "FirstName": "Emoni",
+      "LastName": "Bates",
+      "Jersey": 21,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003133,
+      "FirstName": "Craig",
+      "LastName": "Porter Jr.",
+      "Jersey": 9,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20003233,
+      "FirstName": "Jaylon",
+      "LastName": "Tyson",
+      "Jersey": 24,
+      "Position": "SF"
+    }
+  ],
+  "DET": [
+    {
+      "PlayerID": 20000676,
+      "FirstName": "Tobias",
+      "LastName": "Harris",
+      "Jersey": 12,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20000788,
+      "FirstName": "Tim",
+      "LastName": "Hardaway Jr.",
+      "Jersey": 8,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20001678,
+      "FirstName": "Malik",
+      "LastName": "Beasley",
+      "Jersey": 5,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002541,
+      "FirstName": "Isaiah",
+      "LastName": "Stewart",
+      "Jersey": 28,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002584,
+      "FirstName": "Paul",
+      "LastName": "Reed",
+      "Jersey": 7,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002667,
+      "FirstName": "Cade",
+      "LastName": "Cunningham",
+      "Jersey": 2,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002872,
+      "FirstName": "Jaden",
+      "LastName": "Ivey",
+      "Jersey": 23,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002875,
+      "FirstName": "Jalen",
+      "LastName": "Duren",
+      "Jersey": 0,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002895,
+      "FirstName": "Wendell",
+      "LastName": "Moore Jr.",
+      "Jersey": 14,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002923,
+      "FirstName": "Alondes",
+      "LastName": "Williams",
+      "Jersey": 15,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002936,
+      "FirstName": "Cole",
+      "LastName": "Swider",
+      "Jersey": 13,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20003009,
+      "FirstName": "Simone",
+      "LastName": "Fontecchio",
+      "Jersey": 19,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003036,
+      "FirstName": "Ausar",
+      "LastName": "Thompson",
+      "Jersey": 9,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003063,
+      "FirstName": "Bobi",
+      "LastName": "Klintman",
+      "Jersey": 34,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20003069,
+      "FirstName": "Marcus",
+      "LastName": "Sasser",
+      "Jersey": 25,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20003214,
+      "FirstName": "Ron",
+      "LastName": "Holland II",
+      "Jersey": 0,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003269,
+      "FirstName": "Daniss",
+      "LastName": "Jenkins",
+      "Jersey": 24,
+      "Position": "PG"
+    }
+  ],
+  "IND": [
+    {
+      "PlayerID": 20000464,
+      "FirstName": "James",
+      "LastName": "Johnson",
+      "Jersey": 16,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20001424,
+      "FirstName": "Myles",
+      "LastName": "Turner",
+      "Jersey": 33,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20001525,
+      "FirstName": "T.J.",
+      "LastName": "McConnell",
+      "Jersey": 9,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20001710,
+      "FirstName": "Pascal",
+      "LastName": "Siakam",
+      "Jersey": 43,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002527,
+      "FirstName": "James",
+      "LastName": "Wiseman",
+      "Jersey": 13,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002533,
+      "FirstName": "Obi",
+      "LastName": "Toppin",
+      "Jersey": 1,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002537,
+      "FirstName": "Tyrese",
+      "LastName": "Haliburton",
+      "Jersey": 0,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002539,
+      "FirstName": "Aaron",
+      "LastName": "Nesmith",
+      "Jersey": 23,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002673,
+      "FirstName": "Isaiah",
+      "LastName": "Jackson",
+      "Jersey": 22,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002879,
+      "FirstName": "Bennedict",
+      "LastName": "Mathurin",
+      "Jersey": 0,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002914,
+      "FirstName": "Andrew",
+      "LastName": "Nembhard",
+      "Jersey": 2,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002950,
+      "FirstName": "Quenton",
+      "LastName": "Jackson",
+      "Jersey": 29,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003035,
+      "FirstName": "Jarace",
+      "LastName": "Walker",
+      "Jersey": 5,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20003070,
+      "FirstName": "Ben",
+      "LastName": "Sheppard",
+      "Jersey": 26,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003201,
+      "FirstName": "Johnny",
+      "LastName": "Furphy",
+      "Jersey": 12,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003250,
+      "FirstName": "Tristen",
+      "LastName": "Newton",
+      "Jersey": 4,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20003251,
+      "FirstName": "Enrique",
+      "LastName": "Freeman",
+      "Jersey": 8,
+      "Position": "PF"
+    }
+  ],
+  "MIL": [
+    {
+      "PlayerID": 20000497,
+      "FirstName": "Giannis",
+      "LastName": "Antetokounmpo",
+      "Jersey": 34,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20000500,
+      "FirstName": "Khris",
+      "LastName": "Middleton",
+      "Jersey": 22,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20000588,
+      "FirstName": "Brook",
+      "LastName": "Lopez",
+      "Jersey": 11,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20000619,
+      "FirstName": "Damian",
+      "LastName": "Lillard",
+      "Jersey": 0,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20001418,
+      "FirstName": "Delon",
+      "LastName": "Wright",
+      "Jersey": 55,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20001420,
+      "FirstName": "Bobby",
+      "LastName": "Portis",
+      "Jersey": 9,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20001438,
+      "FirstName": "Pat",
+      "LastName": "Connaughton",
+      "Jersey": 24,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20001680,
+      "FirstName": "Taurean",
+      "LastName": "Prince",
+      "Jersey": 12,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002027,
+      "FirstName": "Gary",
+      "LastName": "Trent Jr.",
+      "Jersey": 5,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002865,
+      "FirstName": "MarJon",
+      "LastName": "Beauchamp",
+      "Jersey": 3,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002917,
+      "FirstName": "Ryan",
+      "LastName": "Rollins",
+      "Jersey": 13,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002945,
+      "FirstName": "AJ",
+      "LastName": "Green",
+      "Jersey": 20,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003022,
+      "FirstName": "Stanley",
+      "LastName": "Umude",
+      "Jersey": 17,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003059,
+      "FirstName": "Andre",
+      "LastName": "Jackson Jr.",
+      "Jersey": 44,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003090,
+      "FirstName": "Chris",
+      "LastName": "Livingston",
+      "Jersey": 7,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003117,
+      "FirstName": "Liam",
+      "LastName": "Robbins",
+      "Jersey": 15,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20003225,
+      "FirstName": "Tyler",
+      "LastName": "Smith",
+      "Jersey": 21,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20003234,
+      "FirstName": "AJ",
+      "LastName": "Johnson",
+      "Jersey": 77,
+      "Position": "SG"
+    }
+  ],
+  "ATL": [
+    {
+      "PlayerID": 20000549,
+      "FirstName": "Clint",
+      "LastName": "Capela",
+      "Jersey": 15,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20000754,
+      "FirstName": "Cody",
+      "LastName": "Zeller",
+      "Jersey": 41,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20001457,
+      "FirstName": "Larry",
+      "LastName": "Nance Jr.",
+      "Jersey": 22,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20001745,
+      "FirstName": "Bogdan",
+      "LastName": "Bogdanovic",
+      "Jersey": 13,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20001989,
+      "FirstName": "Trae",
+      "LastName": "Young",
+      "Jersey": 11,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002268,
+      "FirstName": "De'Andre",
+      "LastName": "Hunter",
+      "Jersey": 12,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002490,
+      "FirstName": "Garrison",
+      "LastName": "Mathews",
+      "Jersey": 24,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002531,
+      "FirstName": "Onyeka",
+      "LastName": "Okongwu",
+      "Jersey": 17,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002562,
+      "FirstName": "V\u00edt",
+      "LastName": "Krej\u010d\u00ed",
+      "Jersey": 27,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002657,
+      "FirstName": "Jalen",
+      "LastName": "Johnson",
+      "Jersey": 1,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002757,
+      "FirstName": "Keaton",
+      "LastName": "Wallace",
+      "Jersey": 2,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002864,
+      "FirstName": "Dominick",
+      "LastName": "Barlow",
+      "Jersey": 0,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002878,
+      "FirstName": "Dyson",
+      "LastName": "Daniels",
+      "Jersey": 5,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002916,
+      "FirstName": "David",
+      "LastName": "Roddy",
+      "Jersey": 8,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20003015,
+      "FirstName": "Mouhamed",
+      "LastName": "Gueye",
+      "Jersey": 18,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20003049,
+      "FirstName": "Kobe",
+      "LastName": "Bufkin",
+      "Jersey": 4,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20003080,
+      "FirstName": "Seth",
+      "LastName": "Lundy",
+      "Jersey": 3,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003213,
+      "FirstName": "Zaccharie",
+      "LastName": "Risacher",
+      "Jersey": 10,
+      "Position": "SF"
+    }
+  ],
+  "CHA": [
+    {
+      "PlayerID": 20000517,
+      "FirstName": "Taj",
+      "LastName": "Gibson",
+      "Jersey": 67,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20000933,
+      "FirstName": "Seth",
+      "LastName": "Curry",
+      "Jersey": 30,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002003,
+      "FirstName": "Miles",
+      "LastName": "Bridges",
+      "Jersey": 0,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002278,
+      "FirstName": "Grant",
+      "LastName": "Williams",
+      "Jersey": 2,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002294,
+      "FirstName": "Cody",
+      "LastName": "Martin",
+      "Jersey": 11,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002374,
+      "FirstName": "DaQuan",
+      "LastName": "Jeffries",
+      "Jersey": 3,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002528,
+      "FirstName": "LaMelo",
+      "LastName": "Ball",
+      "Jersey": 1,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002543,
+      "FirstName": "Josh",
+      "LastName": "Green",
+      "Jersey": 10,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002567,
+      "FirstName": "Nick",
+      "LastName": "Richards",
+      "Jersey": 4,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002643,
+      "FirstName": "Vasilije",
+      "LastName": "Micic",
+      "Jersey": 22,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002676,
+      "FirstName": "Tre",
+      "LastName": "Mann",
+      "Jersey": 23,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002884,
+      "FirstName": "Mark",
+      "LastName": "Williams",
+      "Jersey": 5,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002903,
+      "FirstName": "Moussa",
+      "LastName": "Diabate",
+      "Jersey": 14,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002971,
+      "FirstName": "Jared",
+      "LastName": "Rhoden",
+      "Jersey": 27,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003032,
+      "FirstName": "Brandon",
+      "LastName": "Miller",
+      "Jersey": 24,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003043,
+      "FirstName": "Nick",
+      "LastName": "Smith Jr.",
+      "Jersey": 8,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20003222,
+      "FirstName": "Tidjane",
+      "LastName": "Salaun",
+      "Jersey": 31,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20003243,
+      "FirstName": "KJ",
+      "LastName": "Simpson",
+      "Jersey": 25,
+      "Position": "PG"
+    }
+  ],
+  "MIA": [
+    {
+      "PlayerID": 20000515,
+      "FirstName": "Jimmy",
+      "LastName": "Butler",
+      "Jersey": 22,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20000572,
+      "FirstName": "Kevin",
+      "LastName": "Love",
+      "Jersey": 42,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20000837,
+      "FirstName": "Alec",
+      "LastName": "Burks",
+      "Jersey": 18,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20001400,
+      "FirstName": "Josh",
+      "LastName": "Richardson",
+      "Jersey": 0,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20001413,
+      "FirstName": "Terry",
+      "LastName": "Rozier",
+      "Jersey": 2,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20001836,
+      "FirstName": "Bam",
+      "LastName": "Adebayo",
+      "Jersey": 13,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20001852,
+      "FirstName": "Thomas",
+      "LastName": "Bryant",
+      "Jersey": 31,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002057,
+      "FirstName": "Duncan",
+      "LastName": "Robinson",
+      "Jersey": 55,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002195,
+      "FirstName": "Haywood",
+      "LastName": "Highsmith",
+      "Jersey": 24,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002284,
+      "FirstName": "Tyler",
+      "LastName": "Herro",
+      "Jersey": 14,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002688,
+      "FirstName": "Josh",
+      "LastName": "Christopher",
+      "Jersey": 8,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002759,
+      "FirstName": "Dru",
+      "LastName": "Smith",
+      "Jersey": 12,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002888,
+      "FirstName": "Nikola",
+      "LastName": "Jovic",
+      "Jersey": 5,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003060,
+      "FirstName": "Jaime",
+      "LastName": "Jaquez Jr.",
+      "Jersey": 11,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003207,
+      "FirstName": "Kel'el",
+      "LastName": "Ware",
+      "Jersey": 7,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20003245,
+      "FirstName": "Pelle",
+      "LastName": "Larsson",
+      "Jersey": 9,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003260,
+      "FirstName": "Keshad",
+      "LastName": "Johnson",
+      "Jersey": 16,
+      "Position": "PF"
+    }
+  ],
+  "ORL": [
+    {
+      "PlayerID": 20000655,
+      "FirstName": "Cory",
+      "LastName": "Joseph",
+      "Jersey": 10,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20000811,
+      "FirstName": "Kentavious",
+      "LastName": "Caldwell-Pope",
+      "Jersey": 3,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20000832,
+      "FirstName": "Gary",
+      "LastName": "Harris",
+      "Jersey": 14,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20001830,
+      "FirstName": "Jonathan",
+      "LastName": "Isaac",
+      "Jersey": 1,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20001996,
+      "FirstName": "Wendell",
+      "LastName": "Carter Jr.",
+      "Jersey": 34,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002036,
+      "FirstName": "Moritz",
+      "LastName": "Wagner",
+      "Jersey": 21,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002282,
+      "FirstName": "Goga",
+      "LastName": "Bitadze",
+      "Jersey": 35,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002540,
+      "FirstName": "Cole",
+      "LastName": "Anthony",
+      "Jersey": 50,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002610,
+      "FirstName": "Trevelin",
+      "LastName": "Queen",
+      "Jersey": 12,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002654,
+      "FirstName": "Franz",
+      "LastName": "Wagner",
+      "Jersey": 22,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002670,
+      "FirstName": "Jalen",
+      "LastName": "Suggs",
+      "Jersey": 4,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002741,
+      "FirstName": "Mac",
+      "LastName": "McClung",
+      "Jersey": 8,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002863,
+      "FirstName": "Paolo",
+      "LastName": "Banchero",
+      "Jersey": 5,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002908,
+      "FirstName": "Caleb",
+      "LastName": "Houstan",
+      "Jersey": 2,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003038,
+      "FirstName": "Anthony",
+      "LastName": "Black",
+      "Jersey": 0,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20003047,
+      "FirstName": "Jett",
+      "LastName": "Howard",
+      "Jersey": 13,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003200,
+      "FirstName": "Tristan",
+      "LastName": "Da Silva",
+      "Jersey": 23,
+      "Position": "PF"
+    }
+  ],
+  "WAS": [
+    {
+      "PlayerID": 20000455,
+      "FirstName": "Jonas",
+      "LastName": "Valanciunas",
+      "Jersey": 17,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20001389,
+      "FirstName": "Richaun",
+      "LastName": "Holmes",
+      "Jersey": 22,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20001701,
+      "FirstName": "Malcolm",
+      "LastName": "Brogdon",
+      "Jersey": 15,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20001858,
+      "FirstName": "Kyle",
+      "LastName": "Kuzma",
+      "Jersey": 33,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20001995,
+      "FirstName": "Marvin",
+      "LastName": "Bagley III",
+      "Jersey": 35,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002300,
+      "FirstName": "Jordan",
+      "LastName": "Poole",
+      "Jersey": 13,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002544,
+      "FirstName": "Saddiq",
+      "LastName": "Bey",
+      "Jersey": 14,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002615,
+      "FirstName": "Anthony",
+      "LastName": "Gill",
+      "Jersey": 16,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002651,
+      "FirstName": "Corey",
+      "LastName": "Kispert",
+      "Jersey": 24,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002659,
+      "FirstName": "Jared",
+      "LastName": "Butler",
+      "Jersey": 4,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002728,
+      "FirstName": "Justin",
+      "LastName": "Champagnie",
+      "Jersey": 9,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002862,
+      "FirstName": "Patrick",
+      "LastName": "Baldwin Jr.",
+      "Jersey": 7,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002877,
+      "FirstName": "Johnny",
+      "LastName": "Davis",
+      "Jersey": 1,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003052,
+      "FirstName": "Bilal",
+      "LastName": "Coulibaly",
+      "Jersey": 0,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003078,
+      "FirstName": "Tristan",
+      "LastName": "Vukcevic",
+      "Jersey": 0,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20003202,
+      "FirstName": "Kyshawn",
+      "LastName": "George",
+      "Jersey": 18,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003205,
+      "FirstName": "Bub",
+      "LastName": "Carrington",
+      "Jersey": 8,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20003215,
+      "FirstName": "Alexandre",
+      "LastName": "Sarr",
+      "Jersey": 20,
+      "Position": "PF"
+    }
+  ],
+  "DAL": [
+    {
+      "PlayerID": 20000486,
+      "FirstName": "Klay",
+      "LastName": "Thompson",
+      "Jersey": 31,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20000539,
+      "FirstName": "Dwight",
+      "LastName": "Powell",
+      "Jersey": 7,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20000574,
+      "FirstName": "Kyrie",
+      "LastName": "Irving",
+      "Jersey": 11,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20000816,
+      "FirstName": "Spencer",
+      "LastName": "Dinwiddie",
+      "Jersey": 26,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20000841,
+      "FirstName": "Dante",
+      "LastName": "Exum",
+      "Jersey": 0,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20000848,
+      "FirstName": "Markieff",
+      "LastName": "Morris",
+      "Jersey": 88,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20001909,
+      "FirstName": "Maxi",
+      "LastName": "Kleber",
+      "Jersey": 42,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20001984,
+      "FirstName": "Luka",
+      "LastName": "Doncic",
+      "Jersey": 77,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002279,
+      "FirstName": "P.J.",
+      "LastName": "Washington",
+      "Jersey": 25,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002329,
+      "FirstName": "Daniel",
+      "LastName": "Gafford",
+      "Jersey": 21,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002600,
+      "FirstName": "Naji",
+      "LastName": "Marshall",
+      "Jersey": 13,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002681,
+      "FirstName": "Quentin",
+      "LastName": "Grimes",
+      "Jersey": 5,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002711,
+      "FirstName": "Kessler",
+      "LastName": "Edwards",
+      "Jersey": 20,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002854,
+      "FirstName": "Brandon",
+      "LastName": "Williams",
+      "Jersey": 0,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002891,
+      "FirstName": "Jaden",
+      "LastName": "Hardy",
+      "Jersey": 1,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003055,
+      "FirstName": "Dereck",
+      "LastName": "Lively II",
+      "Jersey": 2,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20003067,
+      "FirstName": "Olivier-Maxence",
+      "LastName": "Prosper",
+      "Jersey": 8,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20003125,
+      "FirstName": "Jazian",
+      "LastName": "Gortman",
+      "Jersey": 23,
+      "Position": "PG"
+    }
+  ],
+  "DEN": [
+    {
+      "PlayerID": 20000663,
+      "FirstName": "DeAndre",
+      "LastName": "Jordan",
+      "Jersey": 6,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20000681,
+      "FirstName": "Aaron",
+      "LastName": "Gordon",
+      "Jersey": 32,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20000877,
+      "FirstName": "Russell",
+      "LastName": "Westbrook",
+      "Jersey": 4,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20001441,
+      "FirstName": "Nikola",
+      "LastName": "Jokic",
+      "Jersey": 15,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20001597,
+      "FirstName": "Dario",
+      "LastName": "Saric",
+      "Jersey": 9,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20001666,
+      "FirstName": "Jamal",
+      "LastName": "Murray",
+      "Jersey": 27,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20001870,
+      "FirstName": "Vlatko",
+      "LastName": "Cancar",
+      "Jersey": 31,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20001988,
+      "FirstName": "Michael",
+      "LastName": "Porter Jr.",
+      "Jersey": 1,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002547,
+      "FirstName": "Zeke",
+      "LastName": "Nnaji",
+      "Jersey": 22,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002868,
+      "FirstName": "Christian",
+      "LastName": "Braun",
+      "Jersey": 0,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002920,
+      "FirstName": "Peyton",
+      "LastName": "Watson",
+      "Jersey": 8,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003071,
+      "FirstName": "Julian",
+      "LastName": "Strawther",
+      "Jersey": 3,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003073,
+      "FirstName": "Jalen",
+      "LastName": "Pickett",
+      "Jersey": 24,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003075,
+      "FirstName": "Hunter",
+      "LastName": "Tyson",
+      "Jersey": 5,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003229,
+      "FirstName": "DaRon",
+      "LastName": "Holmes II",
+      "Jersey": 14,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20003258,
+      "FirstName": "PJ",
+      "LastName": "Hall",
+      "Jersey": 13,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20003259,
+      "FirstName": "Trey",
+      "LastName": "Alexander",
+      "Jersey": 23,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003396,
+      "FirstName": "Spencer",
+      "LastName": "Jones",
+      "Jersey": 21,
+      "Position": "PF"
+    }
+  ],
+  "GS": [
+    {
+      "PlayerID": 20000482,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 26,
+      "Team": "GS",
+      "Jersey": 23,
+      "PositionCategory": "F",
+      "Position": "PF",
+      "FirstName": "Draymond",
+      "LastName": "Green",
+      "BirthDate": "1990-03-04T00:00:00",
+      "BirthCity": "Saginaw",
+      "BirthState": "MI",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000026,
+      "Height": 78,
+      "Weight": 235
+    },
+    {
+      "PlayerID": 20000485,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 26,
+      "Team": "GS",
+      "Jersey": 30,
+      "PositionCategory": "G",
+      "Position": "PG",
+      "FirstName": "Stephen",
+      "LastName": "Curry",
+      "BirthDate": "1988-03-14T00:00:00",
+      "BirthCity": "Akron",
+      "BirthState": "OH",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000026,
+      "Height": 75,
+      "Weight": 200
+    },
+    {
+      "PlayerID": 20000659,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 26,
+      "Team": "GS",
+      "Jersey": 1,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "Kyle",
+      "LastName": "Anderson",
+      "BirthDate": "1993-09-20T00:00:00",
+      "BirthCity": "New York",
+      "BirthState": "NY",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000026,
+      "Height": 81,
+      "Weight": 245
+    },
+    {
+      "PlayerID": 20000795,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 26,
+      "Team": "GS",
+      "Jersey": 22,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "Andrew",
+      "LastName": "Wiggins",
+      "BirthDate": "1995-02-23T00:00:00",
+      "BirthCity": "Toronto",
+      "BirthState": "ON",
+      "BirthCountry": "Canada",
+      "GlobalTeamID": 20000026,
+      "Height": 79,
+      "Weight": 209
+    },
+    {
+      "PlayerID": 20001455,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 26,
+      "Team": "GS",
+      "Jersey": 5,
+      "PositionCategory": "C",
+      "Position": "C",
+      "FirstName": "Kevon",
+      "LastName": "Looney",
+      "BirthDate": "1996-02-06T00:00:00",
+      "BirthCity": "Milwaukee",
+      "BirthState": "WI",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000026,
+      "Height": 81,
+      "Weight": 222
+    },
+    {
+      "PlayerID": 20001673,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 26,
+      "Team": "GS",
+      "Jersey": 7,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "Buddy",
+      "LastName": "Hield",
+      "BirthDate": "1992-12-17T00:00:00",
+      "BirthCity": "Freeport",
+      "BirthState": null,
+      "BirthCountry": "Bahamas",
+      "GlobalTeamID": 20000026,
+      "Height": 76,
+      "Weight": 220
+    },
+    {
+      "PlayerID": 20001730,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 26,
+      "Team": "GS",
+      "Jersey": 0,
+      "PositionCategory": "G",
+      "Position": "PG",
+      "FirstName": "Gary",
+      "LastName": "Payton II",
+      "BirthDate": "1992-12-01T00:00:00",
+      "BirthCity": "Seattle",
+      "BirthState": "WA",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000026,
+      "Height": 75,
+      "Weight": 195
+    },
+    {
+      "PlayerID": 20002029,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 26,
+      "Team": "GS",
+      "Jersey": 8,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "De'Anthony",
+      "LastName": "Melton",
+      "BirthDate": "1998-05-28T00:00:00",
+      "BirthCity": "North Hollywood",
+      "BirthState": "CA",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000026,
+      "Height": 75,
+      "Weight": 200
+    },
+    {
+      "PlayerID": 20002655,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 26,
+      "Team": "GS",
+      "Jersey": 4,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Moses",
+      "LastName": "Moody",
+      "BirthDate": "2002-05-31T00:00:00",
+      "BirthCity": "Little Rock",
+      "BirthState": "AR",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000026,
+      "Height": 77,
+      "Weight": 215
+    },
+    {
+      "PlayerID": 20002661,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 26,
+      "Team": "GS",
+      "Jersey": 0,
+      "PositionCategory": "F",
+      "Position": "PF",
+      "FirstName": "Jonathan",
+      "LastName": "Kuminga",
+      "BirthDate": "2002-10-06T00:00:00",
+      "BirthCity": "Goma",
+      "BirthState": null,
+      "BirthCountry": "DR Congo",
+      "GlobalTeamID": 20000026,
+      "Height": 79,
+      "Weight": 225
+    },
+    {
+      "PlayerID": 20002859,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 26,
+      "Team": "GS",
+      "Jersey": 43,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Lindy",
+      "LastName": "Waters III",
+      "BirthDate": "1997-07-28T00:00:00",
+      "BirthCity": "Norman",
+      "BirthState": "OK",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000026,
+      "Height": 78,
+      "Weight": 198
+    },
+    {
+      "PlayerID": 20002933,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 26,
+      "Team": "GS",
+      "Jersey": 15,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "Gui",
+      "LastName": "Santos",
+      "BirthDate": "2002-06-22T00:00:00",
+      "BirthCity": "Brasilia",
+      "BirthState": null,
+      "BirthCountry": "Brazil",
+      "GlobalTeamID": 20000026,
+      "Height": 79,
+      "Weight": 218
+    },
+    {
+      "PlayerID": 20003012,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 26,
+      "Team": "GS",
+      "Jersey": 61,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Pat",
+      "LastName": "Spencer",
+      "BirthDate": "1996-07-04T00:00:00",
+      "BirthCity": "Davidson",
+      "BirthState": "MD",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000026,
+      "Height": 75,
+      "Weight": 205
+    },
+    {
+      "PlayerID": 20003065,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 26,
+      "Team": "GS",
+      "Jersey": 32,
+      "PositionCategory": "F",
+      "Position": "PF",
+      "FirstName": "Trayce",
+      "LastName": "Jackson-Davis",
+      "BirthDate": "2000-02-22T00:00:00",
+      "BirthCity": "Greenwood",
+      "BirthState": "IN",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000026,
+      "Height": 80,
+      "Weight": 245
+    },
+    {
+      "PlayerID": 20003068,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 26,
+      "Team": "GS",
+      "Jersey": 2,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Brandin",
+      "LastName": "Podziemski",
+      "BirthDate": "2003-02-25T00:00:00",
+      "BirthCity": "Greenfield",
+      "BirthState": "WI",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000026,
+      "Height": 76,
+      "Weight": 203
+    },
+    {
+      "PlayerID": 20003253,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 26,
+      "Team": "GS",
+      "Jersey": 21,
+      "PositionCategory": "C",
+      "Position": "C",
+      "FirstName": "Quinten",
+      "LastName": "Post",
+      "BirthDate": "2000-03-21T00:00:00",
+      "BirthCity": "Amsterdam",
+      "BirthState": null,
+      "BirthCountry": "Netherlands",
+      "GlobalTeamID": 20000026,
+      "Height": 84,
+      "Weight": 244
+    },
+    {
+      "PlayerID": 20003264,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 26,
+      "Team": "GS",
+      "Jersey": 3,
+      "PositionCategory": "G",
+      "Position": "PG",
+      "FirstName": "Reece",
+      "LastName": "Beekman",
+      "BirthDate": "2001-10-08T00:00:00",
+      "BirthCity": "Milwaukee",
+      "BirthState": "WI",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000026,
+      "Height": 73,
+      "Weight": 196
+    }
+  ],
+  "HOU": [
+    {
+      "PlayerID": 20000632,
+      "FirstName": "Jeff",
+      "LastName": "Green",
+      "Jersey": 32,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20000875,
+      "FirstName": "Steven",
+      "LastName": "Adams",
+      "Jersey": 12,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20001733,
+      "FirstName": "Fred",
+      "LastName": "VanVleet",
+      "Jersey": 5,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20001873,
+      "FirstName": "Dillon",
+      "LastName": "Brooks",
+      "Jersey": 9,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002005,
+      "FirstName": "Aaron",
+      "LastName": "Holiday",
+      "Jersey": 0,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002172,
+      "FirstName": "Jock",
+      "LastName": "Landale",
+      "Jersey": 2,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002213,
+      "FirstName": "Jae'Sean",
+      "LastName": "Tate",
+      "Jersey": 8,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002666,
+      "FirstName": "Alperen",
+      "LastName": "Seng\u00fcn",
+      "Jersey": 28,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002668,
+      "FirstName": "Jalen",
+      "LastName": "Green",
+      "Jersey": 4,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002871,
+      "FirstName": "Jabari",
+      "LastName": "Smith Jr.",
+      "Jersey": 10,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002883,
+      "FirstName": "Tari",
+      "LastName": "Eason",
+      "Jersey": 17,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002948,
+      "FirstName": "Nate",
+      "LastName": "Williams",
+      "Jersey": 19,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003034,
+      "FirstName": "Amen",
+      "LastName": "Thompson",
+      "Jersey": 1,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20003037,
+      "FirstName": "Cam",
+      "LastName": "Whitmore",
+      "Jersey": 7,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003191,
+      "FirstName": "Reed",
+      "LastName": "Sheppard",
+      "Jersey": 15,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20003261,
+      "FirstName": "N'Faly",
+      "LastName": "Dante",
+      "Jersey": 3,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20003425,
+      "FirstName": "Jack",
+      "LastName": "McVeigh",
+      "Jersey": 58,
+      "Position": "SG"
+    }
+  ],
+  "LAC": [
+    {
+      "PlayerID": 20000544,
+      "FirstName": "James",
+      "LastName": "Harden",
+      "Jersey": 1,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20000617,
+      "FirstName": "Nicolas",
+      "LastName": "Batum",
+      "Jersey": 33,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20000646,
+      "FirstName": "Kawhi",
+      "LastName": "Leonard",
+      "Jersey": 2,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20000856,
+      "FirstName": "P.J.",
+      "LastName": "Tucker",
+      "Jersey": 17,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20001416,
+      "FirstName": "Norman",
+      "LastName": "Powell",
+      "Jersey": 24,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20001670,
+      "FirstName": "Kris",
+      "LastName": "Dunn",
+      "Jersey": 8,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20001694,
+      "FirstName": "Ivica",
+      "LastName": "Zubac",
+      "Jersey": 40,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20001796,
+      "FirstName": "Derrick",
+      "LastName": "Jones Jr.",
+      "Jersey": 55,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20001985,
+      "FirstName": "Mo",
+      "LastName": "Bamba",
+      "Jersey": 4,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002295,
+      "FirstName": "Kevin",
+      "LastName": "Porter Jr.",
+      "Jersey": 77,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002312,
+      "FirstName": "Terance",
+      "LastName": "Mann",
+      "Jersey": 14,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002386,
+      "FirstName": "Amir",
+      "LastName": "Coffey",
+      "Jersey": 7,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002672,
+      "FirstName": "Kai",
+      "LastName": "Jones",
+      "Jersey": 23,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002701,
+      "FirstName": "Bones",
+      "LastName": "Hyland",
+      "Jersey": 5,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20003072,
+      "FirstName": "Kobe",
+      "LastName": "Brown",
+      "Jersey": 21,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20003082,
+      "FirstName": "Jordan",
+      "LastName": "Miller",
+      "Jersey": 11,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003247,
+      "FirstName": "Cam",
+      "LastName": "Christie",
+      "Jersey": 12,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003270,
+      "FirstName": "Trentyn",
+      "LastName": "Flowers",
+      "Jersey": 9,
+      "Position": "SG"
+    }
+  ],
+  "LAL": [
+    {
+      "PlayerID": 20000468,
+      "FirstName": "Anthony",
+      "LastName": "Davis",
+      "Jersey": 3,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20000571,
+      "FirstName": "LeBron",
+      "LastName": "James",
+      "Jersey": 23,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20001458,
+      "FirstName": "D'Angelo",
+      "LastName": "Russell",
+      "Jersey": 1,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20001527,
+      "FirstName": "Christian",
+      "LastName": "Wood",
+      "Jersey": 35,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002015,
+      "FirstName": "Jarred",
+      "LastName": "Vanderbilt",
+      "Jersey": 2,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002254,
+      "FirstName": "Gabe",
+      "LastName": "Vincent",
+      "Jersey": 7,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002274,
+      "FirstName": "Jaxson",
+      "LastName": "Hayes",
+      "Jersey": 11,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002275,
+      "FirstName": "Rui",
+      "LastName": "Hachimura",
+      "Jersey": 28,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002276,
+      "FirstName": "Cam",
+      "LastName": "Reddish",
+      "Jersey": 5,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002720,
+      "FirstName": "Austin",
+      "LastName": "Reaves",
+      "Jersey": 15,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002894,
+      "FirstName": "Christian",
+      "LastName": "Koloko",
+      "Jersey": 10,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002900,
+      "FirstName": "Max",
+      "LastName": "Christie",
+      "Jersey": 12,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003045,
+      "FirstName": "Jalen",
+      "LastName": "Hood-Schifino",
+      "Jersey": 0,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20003057,
+      "FirstName": "Maxwell",
+      "LastName": "Lewis",
+      "Jersey": 20,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003194,
+      "FirstName": "Dalton",
+      "LastName": "Knecht",
+      "Jersey": 4,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003212,
+      "FirstName": "Bronny",
+      "LastName": "James Jr.",
+      "Jersey": 9,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20003263,
+      "FirstName": "Armel",
+      "LastName": "Traore",
+      "Jersey": 94,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20003279,
+      "FirstName": "Quincy",
+      "LastName": "Olivari",
+      "Jersey": 41,
+      "Position": "SG"
+    }
+  ],
+  "MIN": [
+    {
+      "PlayerID": 20000635,
+      "FirstName": "Mike",
+      "LastName": "Conley",
+      "Jersey": 10,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20000710,
+      "FirstName": "Julius",
+      "LastName": "Randle",
+      "Jersey": 30,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20000840,
+      "FirstName": "Rudy",
+      "LastName": "Gobert",
+      "Jersey": 27,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20000842,
+      "FirstName": "Joe",
+      "LastName": "Ingles",
+      "Jersey": 7,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20001885,
+      "FirstName": "PJ",
+      "LastName": "Dozier",
+      "Jersey": 35,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20001987,
+      "FirstName": "Donte",
+      "LastName": "DiVincenzo",
+      "Jersey": 0,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002285,
+      "FirstName": "Nickeil",
+      "LastName": "Alexander-Walker",
+      "Jersey": 9,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002336,
+      "FirstName": "Naz",
+      "LastName": "Reid",
+      "Jersey": 11,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002523,
+      "FirstName": "Anthony",
+      "LastName": "Edwards",
+      "Jersey": 5,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002553,
+      "FirstName": "Jaden",
+      "LastName": "McDaniels",
+      "Jersey": 3,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002684,
+      "FirstName": "Luka",
+      "LastName": "Garza",
+      "Jersey": 55,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002766,
+      "FirstName": "Daishen",
+      "LastName": "Nix",
+      "Jersey": 1,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002912,
+      "FirstName": "Leonard",
+      "LastName": "Miller",
+      "Jersey": 33,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002913,
+      "FirstName": "Josh",
+      "LastName": "Minott",
+      "Jersey": 8,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20003086,
+      "FirstName": "Jaylen",
+      "LastName": "Clark",
+      "Jersey": 22,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20003193,
+      "FirstName": "Rob",
+      "LastName": "Dillingham",
+      "Jersey": 4,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20003230,
+      "FirstName": "Terrence",
+      "LastName": "Shannon Jr.",
+      "Jersey": 0,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003363,
+      "FirstName": "Jesse",
+      "LastName": "Edwards",
+      "Jersey": 14,
+      "Position": "C"
+    }
+  ],
+  "NO": [
+    {
+      "PlayerID": 20000620,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 23,
+      "Team": "NO",
+      "Jersey": 3,
+      "PositionCategory": "G",
+      "Position": "PG",
+      "FirstName": "CJ",
+      "LastName": "McCollum",
+      "BirthDate": "1991-09-19T00:00:00",
+      "BirthCity": "Canton",
+      "BirthState": "OH",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000023,
+      "Height": 75,
+      "Weight": 202
+    },
+    {
+      "PlayerID": 20001671,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 23,
+      "Team": "NO",
+      "Jersey": 14,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "Brandon",
+      "LastName": "Ingram",
+      "BirthDate": "1997-09-02T00:00:00",
+      "BirthCity": "Kinston",
+      "BirthState": "NC",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000023,
+      "Height": 80,
+      "Weight": 210
+    },
+    {
+      "PlayerID": 20001679,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 23,
+      "Team": "NO",
+      "Jersey": 5,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Dejounte",
+      "LastName": "Murray",
+      "BirthDate": "1996-09-19T00:00:00",
+      "BirthCity": "Seattle",
+      "BirthState": "WA",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000023,
+      "Height": 77,
+      "Weight": 181
+    },
+    {
+      "PlayerID": 20001901,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 23,
+      "Team": "NO",
+      "Jersey": 10,
+      "PositionCategory": "C",
+      "Position": "C",
+      "FirstName": "Daniel",
+      "LastName": "Theis",
+      "BirthDate": "1992-04-04T00:00:00",
+      "BirthCity": "Salzgitter",
+      "BirthState": null,
+      "BirthCountry": "Germany",
+      "GlobalTeamID": 20000023,
+      "Height": 80,
+      "Weight": 245
+    },
+    {
+      "PlayerID": 20002200,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 23,
+      "Team": "NO",
+      "Jersey": 4,
+      "PositionCategory": "F",
+      "Position": "PF",
+      "FirstName": "Javonte",
+      "LastName": "Green",
+      "BirthDate": "1993-07-23T00:00:00",
+      "BirthCity": "Petersburg",
+      "BirthState": "VA",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000023,
+      "Height": 76,
+      "Weight": 220
+    },
+    {
+      "PlayerID": 20002271,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 23,
+      "Team": "NO",
+      "Jersey": 1,
+      "PositionCategory": "F",
+      "Position": "PF",
+      "FirstName": "Zion",
+      "LastName": "Williamson",
+      "BirthDate": "2000-07-06T00:00:00",
+      "BirthCity": "Salisbury",
+      "BirthState": "NC",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000023,
+      "Height": 78,
+      "Weight": 285
+    },
+    {
+      "PlayerID": 20002683,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 23,
+      "Team": "NO",
+      "Jersey": 50,
+      "PositionCategory": "C",
+      "Position": "C",
+      "FirstName": "Jeremiah",
+      "LastName": "Robinson-Earl",
+      "BirthDate": "2000-11-03T00:00:00",
+      "BirthCity": "Kansas City",
+      "BirthState": "MO",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000023,
+      "Height": 81,
+      "Weight": 234
+    },
+    {
+      "PlayerID": 20002690,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 23,
+      "Team": "NO",
+      "Jersey": 11,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Brandon",
+      "LastName": "Boston Jr.",
+      "BirthDate": "2001-11-28T00:00:00",
+      "BirthCity": "Norcross",
+      "BirthState": "GA",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000023,
+      "Height": 78,
+      "Weight": 200
+    },
+    {
+      "PlayerID": 20002699,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 23,
+      "Team": "NO",
+      "Jersey": 2,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "Herbert",
+      "LastName": "Jones",
+      "BirthDate": "1998-10-06T00:00:00",
+      "BirthCity": "Tuscaloosa",
+      "BirthState": "AL",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000023,
+      "Height": 79,
+      "Weight": 212
+    },
+    {
+      "PlayerID": 20002700,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 23,
+      "Team": "NO",
+      "Jersey": 25,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "Trey",
+      "LastName": "Murphy III",
+      "BirthDate": "2000-06-18T00:00:00",
+      "BirthCity": "Durham",
+      "BirthState": "NC",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000023,
+      "Height": 80,
+      "Weight": 217
+    },
+    {
+      "PlayerID": 20002732,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 23,
+      "Team": "NO",
+      "Jersey": 15,
+      "PositionCategory": "G",
+      "Position": "PG",
+      "FirstName": "Jose",
+      "LastName": "Alvarado",
+      "BirthDate": "1998-04-12T00:00:00",
+      "BirthCity": "Brooklyn",
+      "BirthState": "NY",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000023,
+      "Height": 72,
+      "Weight": 182
+    },
+    {
+      "PlayerID": 20002931,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 23,
+      "Team": "NO",
+      "Jersey": 17,
+      "PositionCategory": "F",
+      "Position": "PF",
+      "FirstName": "Karlo",
+      "LastName": "Matkovic",
+      "BirthDate": "2001-03-30T00:00:00",
+      "BirthCity": "Livno",
+      "BirthState": null,
+      "BirthCountry": "Bosnia and Herzegovina",
+      "GlobalTeamID": 20000023,
+      "Height": 83,
+      "Weight": 260
+    },
+    {
+      "PlayerID": 20003008,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 23,
+      "Team": "NO",
+      "Jersey": 8,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "Jamal",
+      "LastName": "Cain",
+      "BirthDate": "1999-03-20T00:00:00",
+      "BirthCity": "Pontiac",
+      "BirthState": "MI",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000023,
+      "Height": 79,
+      "Weight": 207
+    },
+    {
+      "PlayerID": 20003041,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 23,
+      "Team": "NO",
+      "Jersey": 24,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Jordan",
+      "LastName": "Hawkins",
+      "BirthDate": "2002-04-29T00:00:00",
+      "BirthCity": "Gaithersburg",
+      "BirthState": "MD",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000023,
+      "Height": 77,
+      "Weight": 185
+    },
+    {
+      "PlayerID": 20003172,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 23,
+      "Team": "NO",
+      "Jersey": 55,
+      "PositionCategory": "C",
+      "Position": "C",
+      "FirstName": "Trey",
+      "LastName": "Jemison",
+      "BirthDate": "1999-11-28T00:00:00",
+      "BirthCity": "Birmingham",
+      "BirthState": "AL",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000023,
+      "Height": 83,
+      "Weight": 275
+    },
+    {
+      "PlayerID": 20003206,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 23,
+      "Team": "NO",
+      "Jersey": 21,
+      "PositionCategory": "C",
+      "Position": "C",
+      "FirstName": "Yves",
+      "LastName": "Missi",
+      "BirthDate": "2004-05-14T00:00:00",
+      "BirthCity": "Yaounde",
+      "BirthState": null,
+      "BirthCountry": "Cameroon",
+      "GlobalTeamID": 20000023,
+      "Height": 83,
+      "Weight": 236
+    },
+    {
+      "PlayerID": 20003248,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 23,
+      "Team": "NO",
+      "Jersey": 12,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Antonio",
+      "LastName": "Reeves",
+      "BirthDate": "2000-11-20T00:00:00",
+      "BirthCity": "Chicago",
+      "BirthState": "IL",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000023,
+      "Height": 77,
+      "Weight": 189
+    }
+  ],
+  "OKC": [
+    {
+      "PlayerID": 20001801,
+      "FirstName": "Alex",
+      "LastName": "Caruso",
+      "Jersey": 9,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20001874,
+      "FirstName": "Isaiah",
+      "LastName": "Hartenstein",
+      "Jersey": 55,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20001999,
+      "FirstName": "Shai",
+      "LastName": "Gilgeous-Alexander",
+      "Jersey": 2,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002056,
+      "FirstName": "Kenrich",
+      "LastName": "Williams",
+      "Jersey": 34,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002339,
+      "FirstName": "Luguentz",
+      "LastName": "Dort",
+      "Jersey": 5,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002574,
+      "FirstName": "Isaiah",
+      "LastName": "Joe",
+      "Jersey": 11,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002714,
+      "FirstName": "Aaron",
+      "LastName": "Wiggins",
+      "Jersey": 21,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20002870,
+      "FirstName": "Chet",
+      "LastName": "Holmgren",
+      "Jersey": 7,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002880,
+      "FirstName": "Ousmane",
+      "LastName": "Dieng",
+      "Jersey": 13,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002896,
+      "FirstName": "Jalen",
+      "LastName": "Williams",
+      "Jersey": 8,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002921,
+      "FirstName": "Jaylin",
+      "LastName": "Williams",
+      "Jersey": 6,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20003042,
+      "FirstName": "Cason",
+      "LastName": "Wallace",
+      "Jersey": 22,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20003126,
+      "FirstName": "Adam",
+      "LastName": "Flagler",
+      "Jersey": 14,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003219,
+      "FirstName": "Nikola",
+      "LastName": "Topic",
+      "Jersey": 44,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20003236,
+      "FirstName": "Dillon",
+      "LastName": "Jones",
+      "Jersey": 3,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003239,
+      "FirstName": "Ajay",
+      "LastName": "Mitchell",
+      "Jersey": 25,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20003272,
+      "FirstName": "Alex",
+      "LastName": "Ducas",
+      "Jersey": 88,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003411,
+      "FirstName": "Alex",
+      "LastName": "Reese",
+      "Jersey": 15,
+      "Position": "SF"
+    }
+  ],
+  "UTA": [
+    {
+      "PlayerID": 20000656,
+      "FirstName": "Patty",
+      "LastName": "Mills",
+      "Jersey": 8,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20000708,
+      "FirstName": "Jordan",
+      "LastName": "Clarkson",
+      "Jersey": 0,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20001831,
+      "FirstName": "Lauri",
+      "LastName": "Markkanen",
+      "Jersey": 23,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20001835,
+      "FirstName": "John",
+      "LastName": "Collins",
+      "Jersey": 20,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20001997,
+      "FirstName": "Collin",
+      "LastName": "Sexton",
+      "Jersey": 2,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002035,
+      "FirstName": "Svi",
+      "LastName": "Mykhailiuk",
+      "Jersey": 19,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20002045,
+      "FirstName": "Drew",
+      "LastName": "Eubanks",
+      "Jersey": 15,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002689,
+      "FirstName": "Jason",
+      "LastName": "Preston",
+      "Jersey": 10,
+      "Position": "PG"
+    },
+    {
+      "PlayerID": 20002727,
+      "FirstName": "Micah",
+      "LastName": "Potter",
+      "Jersey": 25,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20002889,
+      "FirstName": "Walker",
+      "LastName": "Kessler",
+      "Jersey": 24,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20002944,
+      "FirstName": "Johnny",
+      "LastName": "Juzang",
+      "Jersey": 33,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003040,
+      "FirstName": "Taylor",
+      "LastName": "Hendricks",
+      "Jersey": 0,
+      "Position": "PF"
+    },
+    {
+      "PlayerID": 20003044,
+      "FirstName": "Keyonte",
+      "LastName": "George",
+      "Jersey": 3,
+      "Position": "SG"
+    },
+    {
+      "PlayerID": 20003050,
+      "FirstName": "Brice",
+      "LastName": "Sensabaugh",
+      "Jersey": 28,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003130,
+      "FirstName": "Oscar",
+      "LastName": "Tshiebwe",
+      "Jersey": 34,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20003195,
+      "FirstName": "Cody",
+      "LastName": "Williams",
+      "Jersey": 5,
+      "Position": "SF"
+    },
+    {
+      "PlayerID": 20003203,
+      "FirstName": "Kyle",
+      "LastName": "Filipowski",
+      "Jersey": 22,
+      "Position": "C"
+    },
+    {
+      "PlayerID": 20003204,
+      "FirstName": "Isaiah",
+      "LastName": "Collier",
+      "Jersey": 13,
+      "Position": "PG"
+    }
+  ],
+  "PHO": [
+    {
+      "PlayerID": 20000441,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 29,
+      "Team": "PHO",
+      "Jersey": 3,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Bradley",
+      "LastName": "Beal",
+      "BirthDate": "1993-06-28T00:00:00",
+      "BirthCity": "St. Louis",
+      "BirthState": "MO",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000029,
+      "Height": 76,
+      "Weight": 207
+    },
+    {
+      "PlayerID": 20000594,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 29,
+      "Team": "PHO",
+      "Jersey": 22,
+      "PositionCategory": "C",
+      "Position": "C",
+      "FirstName": "Mason",
+      "LastName": "Plumlee",
+      "BirthDate": "1990-03-05T00:00:00",
+      "BirthCity": "Warsaw",
+      "BirthState": "IN",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000029,
+      "Height": 82,
+      "Weight": 254
+    },
+    {
+      "PlayerID": 20000827,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 29,
+      "Team": "PHO",
+      "Jersey": 20,
+      "PositionCategory": "C",
+      "Position": "C",
+      "FirstName": "Jusuf",
+      "LastName": "Nurkic",
+      "BirthDate": "1994-08-23T00:00:00",
+      "BirthCity": "Tuzla",
+      "BirthState": null,
+      "BirthCountry": "Bosnia and Herzegovina",
+      "GlobalTeamID": 20000029,
+      "Height": 84,
+      "Weight": 290
+    },
+    {
+      "PlayerID": 20000884,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 29,
+      "Team": "PHO",
+      "Jersey": 35,
+      "PositionCategory": "F",
+      "Position": "PF",
+      "FirstName": "Kevin",
+      "LastName": "Durant",
+      "BirthDate": "1988-09-29T00:00:00",
+      "BirthCity": "Washington",
+      "BirthState": "D.C.",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000029,
+      "Height": 83,
+      "Weight": 240
+    },
+    {
+      "PlayerID": 20001430,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 29,
+      "Team": "PHO",
+      "Jersey": 21,
+      "PositionCategory": "G",
+      "Position": "PG",
+      "FirstName": "Tyus",
+      "LastName": "Jones",
+      "BirthDate": "1996-05-10T00:00:00",
+      "BirthCity": "Burnsville",
+      "BirthState": "MN",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000029,
+      "Height": 73,
+      "Weight": 196
+    },
+    {
+      "PlayerID": 20001460,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 29,
+      "Team": "PHO",
+      "Jersey": 1,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Devin",
+      "LastName": "Booker",
+      "BirthDate": "1996-10-30T00:00:00",
+      "BirthCity": "Grand Rapids",
+      "BirthState": "MI",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000029,
+      "Height": 78,
+      "Weight": 206
+    },
+    {
+      "PlayerID": 20001791,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 29,
+      "Team": "PHO",
+      "Jersey": 10,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Damion",
+      "LastName": "Lee",
+      "BirthDate": "1992-10-21T00:00:00",
+      "BirthCity": "Baltimore",
+      "BirthState": "MD",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000029,
+      "Height": 78,
+      "Weight": 210
+    },
+    {
+      "PlayerID": 20001871,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 29,
+      "Team": "PHO",
+      "Jersey": 23,
+      "PositionCategory": "G",
+      "Position": "PG",
+      "FirstName": "Monte",
+      "LastName": "Morris",
+      "BirthDate": "1995-06-27T00:00:00",
+      "BirthCity": "Grand Rapids",
+      "BirthState": "MI",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000029,
+      "Height": 74,
+      "Weight": 183
+    },
+    {
+      "PlayerID": 20001913,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 29,
+      "Team": "PHO",
+      "Jersey": 0,
+      "PositionCategory": "F",
+      "Position": "PF",
+      "FirstName": "Royce",
+      "LastName": "O'Neale",
+      "BirthDate": "1993-06-05T00:00:00",
+      "BirthCity": "Killeen",
+      "BirthState": "TX",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000029,
+      "Height": 78,
+      "Weight": 226
+    },
+    {
+      "PlayerID": 20001986,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 29,
+      "Team": "PHO",
+      "Jersey": 8,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "Grayson",
+      "LastName": "Allen",
+      "BirthDate": "1995-10-08T00:00:00",
+      "BirthCity": "Jacksonville",
+      "BirthState": "FL",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000029,
+      "Height": 76,
+      "Weight": 198
+    },
+    {
+      "PlayerID": 20002006,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 29,
+      "Team": "PHO",
+      "Jersey": 2,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Josh",
+      "LastName": "Okogie",
+      "BirthDate": "1998-09-01T00:00:00",
+      "BirthCity": "Lagos",
+      "BirthState": null,
+      "BirthCountry": "Nigeria",
+      "GlobalTeamID": 20000029,
+      "Height": 76,
+      "Weight": 213
+    },
+    {
+      "PlayerID": 20002291,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 29,
+      "Team": "PHO",
+      "Jersey": 11,
+      "PositionCategory": "C",
+      "Position": "C",
+      "FirstName": "Bol",
+      "LastName": "Bol",
+      "BirthDate": "1999-11-16T00:00:00",
+      "BirthCity": "Khartoum",
+      "BirthState": null,
+      "BirthCountry": "Sudan",
+      "GlobalTeamID": 20000029,
+      "Height": 87,
+      "Weight": 220
+    },
+    {
+      "PlayerID": 20002882,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 29,
+      "Team": "PHO",
+      "Jersey": 14,
+      "PositionCategory": "G",
+      "Position": "PG",
+      "FirstName": "TyTy",
+      "LastName": "Washington Jr.",
+      "BirthDate": "2001-11-15T00:00:00",
+      "BirthCity": "Phoenix",
+      "BirthState": "AZ",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000029,
+      "Height": 75,
+      "Weight": 195
+    },
+    {
+      "PlayerID": 20002937,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 29,
+      "Team": "PHO",
+      "Jersey": 12,
+      "PositionCategory": "G",
+      "Position": "PG",
+      "FirstName": "Collin",
+      "LastName": "Gillespie",
+      "BirthDate": "1999-06-25T00:00:00",
+      "BirthCity": "Huntington Valley",
+      "BirthState": "PA",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000029,
+      "Height": 73,
+      "Weight": 195
+    },
+    {
+      "PlayerID": 20003231,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 29,
+      "Team": "PHO",
+      "Jersey": 0,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Ryan",
+      "LastName": "Dunn",
+      "BirthDate": "2003-01-07T00:00:00",
+      "BirthCity": "Brookville",
+      "BirthState": "NY",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000029,
+      "Height": 80,
+      "Weight": 216
+    },
+    {
+      "PlayerID": 20003241,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 29,
+      "Team": "PHO",
+      "Jersey": 4,
+      "PositionCategory": "F",
+      "Position": "PF",
+      "FirstName": "Oso",
+      "LastName": "Ighodaro",
+      "BirthDate": "2002-07-02T00:00:00",
+      "BirthCity": "Chandler",
+      "BirthState": "AZ",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000029,
+      "Height": 84,
+      "Weight": 235
+    },
+    {
+      "PlayerID": 20003268,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 29,
+      "Team": "PHO",
+      "Jersey": 15,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "Jalen",
+      "LastName": "Bridges",
+      "BirthDate": "2001-05-14T00:00:00",
+      "BirthCity": "Fairmont",
+      "BirthState": "WV",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000029,
+      "Height": 79,
+      "Weight": 213
+    }
+  ],
+  "POR": [
+    {
+      "PlayerID": 20000727,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 19,
+      "Team": "POR",
+      "Jersey": 9,
+      "PositionCategory": "F",
+      "Position": "PF",
+      "FirstName": "Jerami",
+      "LastName": "Grant",
+      "BirthDate": "1994-03-12T00:00:00",
+      "BirthCity": "Portland",
+      "BirthState": "OR",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000019,
+      "Height": 80,
+      "Weight": 210
+    },
+    {
+      "PlayerID": 20001990,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 19,
+      "Team": "POR",
+      "Jersey": 2,
+      "PositionCategory": "C",
+      "Position": "C",
+      "FirstName": "Deandre",
+      "LastName": "Ayton",
+      "BirthDate": "1998-07-23T00:00:00",
+      "BirthCity": "Nassau",
+      "BirthState": null,
+      "BirthCountry": "Bahamas",
+      "GlobalTeamID": 20000019,
+      "Height": 83,
+      "Weight": 250
+    },
+    {
+      "PlayerID": 20002007,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 19,
+      "Team": "POR",
+      "Jersey": 1,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Anfernee",
+      "LastName": "Simons",
+      "BirthDate": "1999-06-08T00:00:00",
+      "BirthCity": "Altamonte Springs",
+      "BirthState": "FL",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000019,
+      "Height": 75,
+      "Weight": 195
+    },
+    {
+      "PlayerID": 20002024,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 19,
+      "Team": "POR",
+      "Jersey": 35,
+      "PositionCategory": "C",
+      "Position": "C",
+      "FirstName": "Robert",
+      "LastName": "Williams III",
+      "BirthDate": "1997-10-17T00:00:00",
+      "BirthCity": "Shreveport",
+      "BirthState": "LA",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000019,
+      "Height": 81,
+      "Weight": 237
+    },
+    {
+      "PlayerID": 20002150,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 19,
+      "Team": "POR",
+      "Jersey": 26,
+      "PositionCategory": "C",
+      "Position": "C",
+      "FirstName": "Duop",
+      "LastName": "Reath",
+      "BirthDate": "1996-06-26T00:00:00",
+      "BirthCity": "Waat",
+      "BirthState": null,
+      "BirthCountry": "South Sudan",
+      "GlobalTeamID": 20000019,
+      "Height": 83,
+      "Weight": 245
+    },
+    {
+      "PlayerID": 20002288,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 19,
+      "Team": "POR",
+      "Jersey": 4,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Matisse",
+      "LastName": "Thybulle",
+      "BirthDate": "1997-03-04T00:00:00",
+      "BirthCity": "Scottsdale",
+      "BirthState": "AZ",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000019,
+      "Height": 77,
+      "Weight": 201
+    },
+    {
+      "PlayerID": 20002534,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 19,
+      "Team": "POR",
+      "Jersey": 8,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "Deni",
+      "LastName": "Avdija",
+      "BirthDate": "2001-01-03T00:00:00",
+      "BirthCity": "Beit Zera",
+      "BirthState": null,
+      "BirthCountry": "Israel",
+      "GlobalTeamID": 20000019,
+      "Height": 81,
+      "Weight": 240
+    },
+    {
+      "PlayerID": 20002712,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 19,
+      "Team": "POR",
+      "Jersey": 5,
+      "PositionCategory": "G",
+      "Position": "PG",
+      "FirstName": "Dalano",
+      "LastName": "Banton",
+      "BirthDate": "1999-11-07T00:00:00",
+      "BirthCity": "Toronto",
+      "BirthState": "ON",
+      "BirthCountry": "Canada",
+      "GlobalTeamID": 20000019,
+      "Height": 81,
+      "Weight": 204
+    },
+    {
+      "PlayerID": 20002874,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 19,
+      "Team": "POR",
+      "Jersey": 17,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Shaedon",
+      "LastName": "Sharpe",
+      "BirthDate": "2003-05-30T00:00:00",
+      "BirthCity": "London",
+      "BirthState": "ON",
+      "BirthCountry": "Canada",
+      "GlobalTeamID": 20000019,
+      "Height": 78,
+      "Weight": 200
+    },
+    {
+      "PlayerID": 20002893,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 19,
+      "Team": "POR",
+      "Jersey": 11,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Bryce",
+      "LastName": "McGowens",
+      "BirthDate": "2002-11-08T00:00:00",
+      "BirthCity": "Pendleton",
+      "BirthState": "SC",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000019,
+      "Height": 77,
+      "Weight": 190
+    },
+    {
+      "PlayerID": 20002919,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 19,
+      "Team": "POR",
+      "Jersey": 34,
+      "PositionCategory": "F",
+      "Position": "PF",
+      "FirstName": "Jabari",
+      "LastName": "Walker",
+      "BirthDate": "2002-07-30T00:00:00",
+      "BirthCity": "Wichita",
+      "BirthState": "KS",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000019,
+      "Height": 81,
+      "Weight": 215
+    },
+    {
+      "PlayerID": 20002975,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 19,
+      "Team": "POR",
+      "Jersey": 10,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Justin",
+      "LastName": "Minaya",
+      "BirthDate": "1999-03-26T00:00:00",
+      "BirthCity": "Harrington Park",
+      "BirthState": "NJ",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000019,
+      "Height": 79,
+      "Weight": 210
+    },
+    {
+      "PlayerID": 20002992,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 19,
+      "Team": "POR",
+      "Jersey": 76,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Taze",
+      "LastName": "Moore",
+      "BirthDate": "1998-06-29T00:00:00",
+      "BirthCity": "Southaven",
+      "BirthState": "MS",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000019,
+      "Height": 77,
+      "Weight": 195
+    },
+    {
+      "PlayerID": 20003033,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 19,
+      "Team": "POR",
+      "Jersey": 0,
+      "PositionCategory": "G",
+      "Position": "PG",
+      "FirstName": "Scoot",
+      "LastName": "Henderson",
+      "BirthDate": "2004-02-03T00:00:00",
+      "BirthCity": "Marietta",
+      "BirthState": "GA",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000019,
+      "Height": 75,
+      "Weight": 196
+    },
+    {
+      "PlayerID": 20003048,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 19,
+      "Team": "POR",
+      "Jersey": 21,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Rayan",
+      "LastName": "Rupert",
+      "BirthDate": "2004-05-31T00:00:00",
+      "BirthCity": "Strasbourg",
+      "BirthState": null,
+      "BirthCountry": "France",
+      "GlobalTeamID": 20000019,
+      "Height": 79,
+      "Weight": 195
+    },
+    {
+      "PlayerID": 20003054,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 19,
+      "Team": "POR",
+      "Jersey": 24,
+      "PositionCategory": "F",
+      "Position": "PF",
+      "FirstName": "Kris",
+      "LastName": "Murray",
+      "BirthDate": "2000-08-19T00:00:00",
+      "BirthCity": "Cedar Rapids",
+      "BirthState": "IA",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000019,
+      "Height": 80,
+      "Weight": 215
+    },
+    {
+      "PlayerID": 20003085,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 19,
+      "Team": "POR",
+      "Jersey": 33,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "Toumani",
+      "LastName": "Camara",
+      "BirthDate": "2000-05-08T00:00:00",
+      "BirthCity": "Brussels",
+      "BirthState": null,
+      "BirthCountry": "Belgium",
+      "GlobalTeamID": 20000019,
+      "Height": 80,
+      "Weight": 220
+    },
+    {
+      "PlayerID": 20003190,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 19,
+      "Team": "POR",
+      "Jersey": 23,
+      "PositionCategory": "C",
+      "Position": "C",
+      "FirstName": "Donovan",
+      "LastName": "Clingan",
+      "BirthDate": "2004-02-23T00:00:00",
+      "BirthCity": "Bristol",
+      "BirthState": "CT",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000019,
+      "Height": 86,
+      "Weight": 280
+    }
+  ],
+  "SAC": [
+    {
+      "PlayerID": 20000456,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 30,
+      "Team": "SAC",
+      "Jersey": 10,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "DeMar",
+      "LastName": "DeRozan",
+      "BirthDate": "1989-08-07T00:00:00",
+      "BirthCity": "Compton",
+      "BirthState": "CA",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000030,
+      "Height": 78,
+      "Weight": 220
+    },
+    {
+      "PlayerID": 20000522,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 30,
+      "Team": "SAC",
+      "Jersey": 7,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "Doug",
+      "LastName": "McDermott",
+      "BirthDate": "1992-01-03T00:00:00",
+      "BirthCity": "Grand Forks",
+      "BirthState": "ND",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000030,
+      "Height": 78,
+      "Weight": 225
+    },
+    {
+      "PlayerID": 20000852,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 30,
+      "Team": "SAC",
+      "Jersey": 25,
+      "PositionCategory": "C",
+      "Position": "C",
+      "FirstName": "Alex",
+      "LastName": "Len",
+      "BirthDate": "1993-06-16T00:00:00",
+      "BirthCity": "Antratsit",
+      "BirthState": null,
+      "BirthCountry": "Ukraine",
+      "GlobalTeamID": 20000030,
+      "Height": 84,
+      "Weight": 250
+    },
+    {
+      "PlayerID": 20001433,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 30,
+      "Team": "SAC",
+      "Jersey": 41,
+      "PositionCategory": "F",
+      "Position": "PF",
+      "FirstName": "Trey",
+      "LastName": "Lyles",
+      "BirthDate": "1995-11-05T00:00:00",
+      "BirthCity": "Saskatoon",
+      "BirthState": "SK",
+      "BirthCountry": "Canada",
+      "GlobalTeamID": 20000030,
+      "Height": 81,
+      "Weight": 234
+    },
+    {
+      "PlayerID": 20001683,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 30,
+      "Team": "SAC",
+      "Jersey": 11,
+      "PositionCategory": "C",
+      "Position": "C",
+      "FirstName": "Domantas",
+      "LastName": "Sabonis",
+      "BirthDate": "1996-05-03T00:00:00",
+      "BirthCity": "Portland",
+      "BirthState": "OR",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000030,
+      "Height": 83,
+      "Weight": 240
+    },
+    {
+      "PlayerID": 20001824,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 30,
+      "Team": "SAC",
+      "Jersey": 5,
+      "PositionCategory": "G",
+      "Position": "PG",
+      "FirstName": "De'Aaron",
+      "LastName": "Fox",
+      "BirthDate": "1997-12-20T00:00:00",
+      "BirthCity": "New Orleans",
+      "BirthState": "LA",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000030,
+      "Height": 75,
+      "Weight": 190
+    },
+    {
+      "PlayerID": 20001833,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 30,
+      "Team": "SAC",
+      "Jersey": 0,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Malik",
+      "LastName": "Monk",
+      "BirthDate": "1998-02-04T00:00:00",
+      "BirthCity": "Jonesboro",
+      "BirthState": "AR",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000030,
+      "Height": 75,
+      "Weight": 200
+    },
+    {
+      "PlayerID": 20001993,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 30,
+      "Team": "SAC",
+      "Jersey": 9,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Kevin",
+      "LastName": "Huerter",
+      "BirthDate": "1998-08-27T00:00:00",
+      "BirthCity": "Albany",
+      "BirthState": "NY",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000030,
+      "Height": 79,
+      "Weight": 190
+    },
+    {
+      "PlayerID": 20002127,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 30,
+      "Team": "SAC",
+      "Jersey": 3,
+      "PositionCategory": "G",
+      "Position": "PG",
+      "FirstName": "Jordan",
+      "LastName": "McLaughlin",
+      "BirthDate": "1996-04-09T00:00:00",
+      "BirthCity": "Pasadena",
+      "BirthState": "CA",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000030,
+      "Height": 72,
+      "Weight": 185
+    },
+    {
+      "PlayerID": 20002594,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 30,
+      "Team": "SAC",
+      "Jersey": 15,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Mason",
+      "LastName": "Jones",
+      "BirthDate": "1998-07-21T00:00:00",
+      "BirthCity": "Dallas",
+      "BirthState": "TX",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000030,
+      "Height": 76,
+      "Weight": 190
+    },
+    {
+      "PlayerID": 20002873,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 30,
+      "Team": "SAC",
+      "Jersey": 13,
+      "PositionCategory": "F",
+      "Position": "PF",
+      "FirstName": "Keegan",
+      "LastName": "Murray",
+      "BirthDate": "2000-08-19T00:00:00",
+      "BirthCity": "Cedar Rapids",
+      "BirthState": "IA",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000030,
+      "Height": 80,
+      "Weight": 215
+    },
+    {
+      "PlayerID": 20002905,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 30,
+      "Team": "SAC",
+      "Jersey": 23,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Keon",
+      "LastName": "Ellis",
+      "BirthDate": "2000-01-08T00:00:00",
+      "BirthCity": "Eustis",
+      "BirthState": "FL",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000030,
+      "Height": 77,
+      "Weight": 175
+    },
+    {
+      "PlayerID": 20003007,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 30,
+      "Team": "SAC",
+      "Jersey": 77,
+      "PositionCategory": "C",
+      "Position": "C",
+      "FirstName": "Orlando",
+      "LastName": "Robinson",
+      "BirthDate": "2000-07-10T00:00:00",
+      "BirthCity": "Las Vegas",
+      "BirthState": "NV",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000030,
+      "Height": 82,
+      "Weight": 235
+    },
+    {
+      "PlayerID": 20003058,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 30,
+      "Team": "SAC",
+      "Jersey": 20,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Colby",
+      "LastName": "Jones",
+      "BirthDate": "2002-05-28T00:00:00",
+      "BirthCity": "Birmingham",
+      "BirthState": "AL",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000030,
+      "Height": 78,
+      "Weight": 205
+    },
+    {
+      "PlayerID": 20003196,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 30,
+      "Team": "SAC",
+      "Jersey": 22,
+      "PositionCategory": "G",
+      "Position": "PG",
+      "FirstName": "Devin",
+      "LastName": "Carter",
+      "BirthDate": "2002-03-18T00:00:00",
+      "BirthCity": "Miami",
+      "BirthState": "FL",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000030,
+      "Height": 74,
+      "Weight": 188
+    },
+    {
+      "PlayerID": 20003262,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 30,
+      "Team": "SAC",
+      "Jersey": 24,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "Isaiah",
+      "LastName": "Crawford",
+      "BirthDate": "2001-11-01T00:00:00",
+      "BirthCity": "Fort Worth",
+      "BirthState": "TX",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000030,
+      "Height": 78,
+      "Weight": 220
+    },
+    {
+      "PlayerID": 20003267,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 30,
+      "Team": "SAC",
+      "Jersey": 17,
+      "PositionCategory": "F",
+      "Position": "PF",
+      "FirstName": "Isaac",
+      "LastName": "Jones",
+      "BirthDate": "2000-07-11T00:00:00",
+      "BirthCity": "Spanaway",
+      "BirthState": "WA",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000030,
+      "Height": 81,
+      "Weight": 245
+    }
+  ],
+  "SA": [
+    {
+      "PlayerID": 20000483,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 24,
+      "Team": "SA",
+      "Jersey": 40,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "Harrison",
+      "LastName": "Barnes",
+      "BirthDate": "1992-05-30T00:00:00",
+      "BirthCity": "Ames",
+      "BirthState": "IA",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000024,
+      "Height": 80,
+      "Weight": 225
+    },
+    {
+      "PlayerID": 20000664,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 24,
+      "Team": "SA",
+      "Jersey": 3,
+      "PositionCategory": "G",
+      "Position": "PG",
+      "FirstName": "Chris",
+      "LastName": "Paul",
+      "BirthDate": "1985-05-06T00:00:00",
+      "BirthCity": "Winston-Salem",
+      "BirthState": "NC",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000024,
+      "Height": 72,
+      "Weight": 190
+    },
+    {
+      "PlayerID": 20001834,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 24,
+      "Team": "SA",
+      "Jersey": 23,
+      "PositionCategory": "C",
+      "Position": "C",
+      "FirstName": "Zach",
+      "LastName": "Collins",
+      "BirthDate": "1997-11-19T00:00:00",
+      "BirthCity": "Henderson",
+      "BirthState": "NV",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000024,
+      "Height": 83,
+      "Weight": 240
+    },
+    {
+      "PlayerID": 20002309,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 24,
+      "Team": "SA",
+      "Jersey": 0,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "Keldon",
+      "LastName": "Johnson",
+      "BirthDate": "1999-10-11T00:00:00",
+      "BirthCity": "Chesterfield",
+      "BirthState": "VA",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000024,
+      "Height": 77,
+      "Weight": 215
+    },
+    {
+      "PlayerID": 20002536,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 24,
+      "Team": "SA",
+      "Jersey": 24,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Devin",
+      "LastName": "Vassell",
+      "BirthDate": "2000-08-23T00:00:00",
+      "BirthCity": "Suwanee",
+      "BirthState": "GA",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000024,
+      "Height": 77,
+      "Weight": 205
+    },
+    {
+      "PlayerID": 20002566,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 24,
+      "Team": "SA",
+      "Jersey": 33,
+      "PositionCategory": "G",
+      "Position": "PG",
+      "FirstName": "Tre",
+      "LastName": "Jones",
+      "BirthDate": "2000-01-08T00:00:00",
+      "BirthCity": "Apple Valley",
+      "BirthState": "MN",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000024,
+      "Height": 73,
+      "Weight": 190
+    },
+    {
+      "PlayerID": 20002703,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 24,
+      "Team": "SA",
+      "Jersey": 28,
+      "PositionCategory": "C",
+      "Position": "C",
+      "FirstName": "Charles",
+      "LastName": "Bassey",
+      "BirthDate": "2000-10-28T00:00:00",
+      "BirthCity": "Lagos",
+      "BirthState": null,
+      "BirthCountry": "Nigeria",
+      "GlobalTeamID": 20000024,
+      "Height": 82,
+      "Weight": 240
+    },
+    {
+      "PlayerID": 20002708,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 24,
+      "Team": "SA",
+      "Jersey": 54,
+      "PositionCategory": "F",
+      "Position": "PF",
+      "FirstName": "Sandro",
+      "LastName": "Mamukelashvili",
+      "BirthDate": "1999-05-23T00:00:00",
+      "BirthCity": "New York",
+      "BirthState": "NY",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000024,
+      "Height": 81,
+      "Weight": 235
+    },
+    {
+      "PlayerID": 20002751,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 24,
+      "Team": "SA",
+      "Jersey": 7,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "David",
+      "LastName": "Duke Jr.",
+      "BirthDate": "1999-10-13T00:00:00",
+      "BirthCity": "Providence",
+      "BirthState": "RI",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000024,
+      "Height": 76,
+      "Weight": 200
+    },
+    {
+      "PlayerID": 20002867,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 24,
+      "Team": "SA",
+      "Jersey": 22,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Malaki",
+      "LastName": "Branham",
+      "BirthDate": "2003-05-12T00:00:00",
+      "BirthCity": "Columbus",
+      "BirthState": "OH",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000024,
+      "Height": 77,
+      "Weight": 205
+    },
+    {
+      "PlayerID": 20002881,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 24,
+      "Team": "SA",
+      "Jersey": 10,
+      "PositionCategory": "F",
+      "Position": "PF",
+      "FirstName": "Jeremy",
+      "LastName": "Sochan",
+      "BirthDate": "2003-05-20T00:00:00",
+      "BirthCity": "Guymon",
+      "BirthState": "OK",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000024,
+      "Height": 80,
+      "Weight": 230
+    },
+    {
+      "PlayerID": 20002886,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 24,
+      "Team": "SA",
+      "Jersey": 14,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Blake",
+      "LastName": "Wesley",
+      "BirthDate": "2003-03-16T00:00:00",
+      "BirthCity": "South Bend",
+      "BirthState": "IN",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000024,
+      "Height": 75,
+      "Weight": 190
+    },
+    {
+      "PlayerID": 20002899,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 24,
+      "Team": "SA",
+      "Jersey": 30,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "Julian",
+      "LastName": "Champagnie",
+      "BirthDate": "2001-06-29T00:00:00",
+      "BirthCity": "Staten Island",
+      "BirthState": "NY",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000024,
+      "Height": 80,
+      "Weight": 210
+    },
+    {
+      "PlayerID": 20003031,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 24,
+      "Team": "SA",
+      "Jersey": 1,
+      "PositionCategory": "F",
+      "Position": "PF",
+      "FirstName": "Victor",
+      "LastName": "Wembanyama",
+      "BirthDate": "2004-01-04T00:00:00",
+      "BirthCity": "Nanterre",
+      "BirthState": null,
+      "BirthCountry": "France",
+      "GlobalTeamID": 20000024,
+      "Height": 87,
+      "Weight": 235
+    },
+    {
+      "PlayerID": 20003062,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 24,
+      "Team": "SA",
+      "Jersey": 25,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "Sidy",
+      "LastName": "Cissoko",
+      "BirthDate": "2004-04-02T00:00:00",
+      "BirthCity": "Saint-Maurice",
+      "BirthState": null,
+      "BirthCountry": "France",
+      "GlobalTeamID": 20000024,
+      "Height": 78,
+      "Weight": 220
+    },
+    {
+      "PlayerID": 20003192,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 24,
+      "Team": "SA",
+      "Jersey": 5,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Stephon",
+      "LastName": "Castle",
+      "BirthDate": "2004-11-01T00:00:00",
+      "BirthCity": "Covington",
+      "BirthState": "GA",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000024,
+      "Height": 77,
+      "Weight": 210
+    },
+    {
+      "PlayerID": 20003249,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 24,
+      "Team": "SA",
+      "Jersey": 55,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "Harrison",
+      "LastName": "Ingram",
+      "BirthDate": "2002-11-27T00:00:00",
+      "BirthCity": "Dallas",
+      "BirthState": "TX",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000024,
+      "Height": 77,
+      "Weight": 235
+    },
+    {
+      "PlayerID": 20003346,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 24,
+      "Team": "SA",
+      "Jersey": 27,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "Riley",
+      "LastName": "Minix",
+      "BirthDate": "2000-09-22T00:00:00",
+      "BirthCity": "Vero Beach",
+      "BirthState": "FL",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000024,
+      "Height": 79,
+      "Weight": 230
+    }
+  ],
+  "MEM": [
+    {
+      "PlayerID": 20000560,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 21,
+      "Team": "MEM",
+      "Jersey": 36,
+      "PositionCategory": "G",
+      "Position": "PG",
+      "FirstName": "Marcus",
+      "LastName": "Smart",
+      "BirthDate": "1994-03-06T00:00:00",
+      "BirthCity": "Flower Mound",
+      "BirthState": "TX",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000021,
+      "Height": 75,
+      "Weight": 220
+    },
+    {
+      "PlayerID": 20001840,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 21,
+      "Team": "MEM",
+      "Jersey": 10,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Luke",
+      "LastName": "Kennard",
+      "BirthDate": "1996-06-24T00:00:00",
+      "BirthCity": "Middletown",
+      "BirthState": "OH",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000021,
+      "Height": 77,
+      "Weight": 206
+    },
+    {
+      "PlayerID": 20001991,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 21,
+      "Team": "MEM",
+      "Jersey": 13,
+      "PositionCategory": "F",
+      "Position": "PF",
+      "FirstName": "Jaren",
+      "LastName": "Jackson Jr.",
+      "BirthDate": "1999-09-15T00:00:00",
+      "BirthCity": "Plainfield",
+      "BirthState": "NJ",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000021,
+      "Height": 83,
+      "Weight": 242
+    },
+    {
+      "PlayerID": 20002266,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 21,
+      "Team": "MEM",
+      "Jersey": 12,
+      "PositionCategory": "G",
+      "Position": "PG",
+      "FirstName": "Ja",
+      "LastName": "Morant",
+      "BirthDate": "1999-08-10T00:00:00",
+      "BirthCity": "Dalzell",
+      "BirthState": "SC",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000021,
+      "Height": 75,
+      "Weight": 175
+    },
+    {
+      "PlayerID": 20002283,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 21,
+      "Team": "MEM",
+      "Jersey": 15,
+      "PositionCategory": "F",
+      "Position": "PF",
+      "FirstName": "Brandon",
+      "LastName": "Clarke",
+      "BirthDate": "1996-09-19T00:00:00",
+      "BirthCity": "Vancouver",
+      "BirthState": "BC",
+      "BirthCountry": "Canada",
+      "GlobalTeamID": 20000021,
+      "Height": 80,
+      "Weight": 210
+    },
+    {
+      "PlayerID": 20002318,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 21,
+      "Team": "MEM",
+      "Jersey": 46,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "John",
+      "LastName": "Konchar",
+      "BirthDate": "1996-03-22T00:00:00",
+      "BirthCity": "Chicago",
+      "BirthState": "IL",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000021,
+      "Height": 77,
+      "Weight": 210
+    },
+    {
+      "PlayerID": 20002555,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 21,
+      "Team": "MEM",
+      "Jersey": 22,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Desmond",
+      "LastName": "Bane",
+      "BirthDate": "1998-06-25T00:00:00",
+      "BirthCity": "Richmond",
+      "BirthState": "IN",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000021,
+      "Height": 78,
+      "Weight": 215
+    },
+    {
+      "PlayerID": 20002709,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 21,
+      "Team": "MEM",
+      "Jersey": 7,
+      "PositionCategory": "F",
+      "Position": "PF",
+      "FirstName": "Santi",
+      "LastName": "Aldama",
+      "BirthDate": "2001-01-10T00:00:00",
+      "BirthCity": "Las Palmas",
+      "BirthState": null,
+      "BirthCountry": "Spain",
+      "GlobalTeamID": 20000021,
+      "Height": 83,
+      "Weight": 224
+    },
+    {
+      "PlayerID": 20002735,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 21,
+      "Team": "MEM",
+      "Jersey": 30,
+      "PositionCategory": "C",
+      "Position": "C",
+      "FirstName": "Jay",
+      "LastName": "Huff",
+      "BirthDate": "1997-08-25T00:00:00",
+      "BirthCity": "Durham",
+      "BirthState": "NC",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000021,
+      "Height": 85,
+      "Weight": 240
+    },
+    {
+      "PlayerID": 20002910,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 21,
+      "Team": "MEM",
+      "Jersey": 3,
+      "PositionCategory": "F",
+      "Position": "PF",
+      "FirstName": "Jake",
+      "LastName": "LaRavia",
+      "BirthDate": "2001-11-03T00:00:00",
+      "BirthCity": "Indianapolis",
+      "BirthState": "IN",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000021,
+      "Height": 79,
+      "Weight": 235
+    },
+    {
+      "PlayerID": 20002915,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 21,
+      "Team": "MEM",
+      "Jersey": 1,
+      "PositionCategory": "G",
+      "Position": "PG",
+      "FirstName": "Scotty",
+      "LastName": "Pippen Jr.",
+      "BirthDate": "2000-11-10T00:00:00",
+      "BirthCity": "Portland",
+      "BirthState": "OR",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000021,
+      "Height": 73,
+      "Weight": 170
+    },
+    {
+      "PlayerID": 20002927,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 21,
+      "Team": "MEM",
+      "Jersey": 5,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Vince",
+      "LastName": "Williams Jr.",
+      "BirthDate": "2000-08-30T00:00:00",
+      "BirthCity": "Toledo",
+      "BirthState": "OH",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000021,
+      "Height": 78,
+      "Weight": 205
+    },
+    {
+      "PlayerID": 20003064,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 21,
+      "Team": "MEM",
+      "Jersey": 45,
+      "PositionCategory": "F",
+      "Position": "PF",
+      "FirstName": "GG",
+      "LastName": "Jackson II",
+      "BirthDate": "2004-12-17T00:00:00",
+      "BirthCity": "Columbia",
+      "BirthState": "SC",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000021,
+      "Height": 81,
+      "Weight": 215
+    },
+    {
+      "PlayerID": 20003199,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 21,
+      "Team": "MEM",
+      "Jersey": 14,
+      "PositionCategory": "C",
+      "Position": "C",
+      "FirstName": "Zach",
+      "LastName": "Edey",
+      "BirthDate": "2002-05-14T00:00:00",
+      "BirthCity": "Toronto",
+      "BirthState": "ON",
+      "BirthCountry": "Canada",
+      "GlobalTeamID": 20000021,
+      "Height": 88,
+      "Weight": 299
+    },
+    {
+      "PlayerID": 20003240,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 21,
+      "Team": "MEM",
+      "Jersey": 0,
+      "PositionCategory": "F",
+      "Position": "SF",
+      "FirstName": "Jaylen",
+      "LastName": "Wells",
+      "BirthDate": "2003-08-26T00:00:00",
+      "BirthCity": "Sacramento",
+      "BirthState": "CA",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000021,
+      "Height": 79,
+      "Weight": 206
+    },
+    {
+      "PlayerID": 20003254,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 21,
+      "Team": "MEM",
+      "Jersey": 24,
+      "PositionCategory": "G",
+      "Position": "SG",
+      "FirstName": "Cam",
+      "LastName": "Spencer",
+      "BirthDate": "2000-04-06T00:00:00",
+      "BirthCity": "Davidsonville",
+      "BirthState": "MD",
+      "BirthCountry": "USA",
+      "GlobalTeamID": 20000021,
+      "Height": 75,
+      "Weight": 201
+    },
+    {
+      "PlayerID": 20003427,
+      "SportsDataID": "",
+      "Status": "Active",
+      "TeamID": 21,
+      "Team": "MEM",
+      "Jersey": 17,
+      "PositionCategory": "G",
+      "Position": "PG",
+      "FirstName": "Yuki",
+      "LastName": "Kawamura",
+      "BirthDate": "2001-05-02T00:00:00",
+      "BirthCity": "Yanai",
+      "BirthState": null,
+      "BirthCountry": "Japan",
+      "GlobalTeamID": 20000021,
+      "Height": 68,
+      "Weight": 159
+    }
+  ]
+}
